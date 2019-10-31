@@ -1,0 +1,14 @@
+
+esquid:S1192-"IDefine a constant instead of duplicating this literal "result: " 5 times.(≠¿•π˘ˇˇˇˇ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å∑öÓ˘ˇˇˇˇ
+^squid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(ïﬂÁà
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(˘ûÕå
+^squid:S00112f"FDefine and throw a dedicated exception instead of using a generic one.(≈ÀﬂÔ
+dsquid:S00112ç"FDefine and throw a dedicated exception instead of using a generic one.(™À·Ë˛ˇˇˇˇ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“äŒÇ
+=squid:S1905,"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905G"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905`"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905Å"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905¢"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˝ÓﬂÅ

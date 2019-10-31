@@ -1,0 +1,15 @@
+
+squid:S1319"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(ΖΑ£b
+‘squid:S1319)"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(σα±•
+‘squid:S13198"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(«Κ™ζ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΊΊ™‚
+]squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ΖΑ£b
+^squid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(σα±•
+^squid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(«Κ™ζ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™’‰Ύόÿÿÿÿ
+<squid:S1172"&Remove these unused method parameters.(ΖΑ£b
+Osquid:S1197"8Move the array designator from the variable to the type.(ϋ½λ
+=squid:S1172)"&Remove these unused method parameters.(σα±•
+Osquid:S1197."8Move the array designator from the variable to the type.(ϋ½λ
+=squid:S11728"&Remove these unused method parameters.(«Κ™ζ
+Osquid:S1197="8Move the array designator from the variable to the type.(ϋ½λ

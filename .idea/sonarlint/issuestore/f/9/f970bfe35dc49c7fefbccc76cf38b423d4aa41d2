@@ -1,0 +1,41 @@
+
+hsquid:S1192;"LDefine a constant instead of duplicating this literal "badSink.txt" 3 times.(ή“™Κϊÿÿÿÿ
+ysquid:S1192V"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 5 times.(Γ¥Ήωÿÿÿÿ
+xsquid:S1192a"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 5 times.(ν†Ρ’
+]squid:S1192E"FDefine a constant instead of duplicating this literal "Hello" 5 times.(±½γ
+{squid:S1192l"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 5 times.(ΫνΠώÿÿÿÿÿ
+bsquid:S1192="FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(¨ªª›ϊÿÿÿÿ
+vsquid:S1192I"ZDefine a constant instead of duplicating this literal "Error with stream writing" 5 times.(λ‰άύÿÿÿÿ
+Lsquid:S1066θ"/Merge this if statement with the enclosing one.(¬ϊÿÿÿÿÿ
+Tsquid:S2589―"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589¤"7Remove this expression which always evaluates to "true"(ς›ΰα
+Tsquid:S2589“"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589α"7Remove this expression which always evaluates to "true"(‹„ΰÿÿÿÿÿ
+Nsquid:S2589Z"7Remove this expression which always evaluates to "true"(ς›ΰα
+Tsquid:S2589±"7Remove this expression which always evaluates to "true"(‹„ΰÿÿÿÿÿ
+Tsquid:S2589™"7Remove this expression which always evaluates to "true"(‹„ΰÿÿÿÿÿ
+Osquid:S2589Ό"7Remove this expression which always evaluates to "true"(ς›ΰα
+Ssquid:S2589O"7Remove this expression which always evaluates to "true"(‹„ΰÿÿÿÿÿ
+Ssquid:S2589e"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589χ"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589Η"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589μ"7Remove this expression which always evaluates to "true"(ς›ΰα
+Osquid:S2589"7Remove this expression which always evaluates to "true"(ς›ΰα
+Tsquid:S2589ύ"7Remove this expression which always evaluates to "true"(‹„ΰÿÿÿÿÿ
+esquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶”ϋΣ
+^squid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(•ίη
+_squid:S00112Ό"FDefine and throw a dedicated exception instead of using a generic one.(ωΝ
+_squid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(ΕΛίο
+dsquid:S00112Φ"FDefine and throw a dedicated exception instead of using a generic one.(ªΛαθώÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΦΫρΏ
+isquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ό’‰ά
+Usquid:S4719="9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›ϊÿÿÿÿ
+isquid:S3776r"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(•ίη
+Vsquid:S4719‡"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›ϊÿÿÿÿ
+jsquid:S3776Ό"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ωΝ
+Vsquid:S4719Ο"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›ϊÿÿÿÿ
+jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ΕΛίο
+Vsquid:S4719 "9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›ϊÿÿÿÿ
+osquid:S3776Φ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ªΛαθώÿÿÿÿ
+Vsquid:S4719μ"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›ϊÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£Μ_

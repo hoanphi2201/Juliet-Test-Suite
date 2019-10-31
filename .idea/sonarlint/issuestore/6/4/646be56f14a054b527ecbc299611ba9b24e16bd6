@@ -1,0 +1,23 @@
+
+msquid:S1192A"VDefine a constant instead of duplicating this literal "Error executing query" 3 times.(•½Ï¬
+squid:S11927"cDefine a constant instead of duplicating this literal "select * from invoices where uid=?" 3 times.(İÉ‡şÿÿÿÿ
+rsquid:S1192f"[Define a constant instead of duplicating this literal "Could not close Connection" 3 times.(øÍÒ÷
+qsquid:S1192N"ZDefine a constant instead of duplicating this literal "Could not close ResultSet" 3 times.(µŒŠÉ
+ysquid:S1192Z"bDefine a constant instead of duplicating this literal "Could not close PreparedStatement" 3 times.(âò¯›
+wsquid:S1192="[Define a constant instead of duplicating this literal "bad() - result requested: " 3 times.(†ºÍøşÿÿÿÿ
+Qsquid:S1444"5Make this "public static badPublicStatic" field final(Œç¿‹şÿÿÿÿ
+Vsquid:S1444n":Make this "public static goodG2B1PublicStatic" field final(å÷âùÿÿÿÿ
+Qsquid:S1444o":Make this "public static goodG2B2PublicStatic" field final(Ûƒøò
+"squid:ClassVariableVisibilityCheck"[Make badPublicStatic a static final constant or non-public and provide accessors if needed.(Œç¿‹şÿÿÿÿ
+“"squid:ClassVariableVisibilityCheckn"`Make goodG2B1PublicStatic a static final constant or non-public and provide accessors if needed.(å÷âùÿÿÿÿ
+"squid:ClassVariableVisibilityChecko"`Make goodG2B2PublicStatic a static final constant or non-public and provide accessors if needed.(Ûƒøò
+Osquid:S2589‚"7Remove this expression which always evaluates to "true"(àûÌ€
+Osquid:S2589¶"7Remove this expression which always evaluates to "true"(àûÌ€
+Nsquid:S2589_"7Remove this expression which always evaluates to "true"(àûÌ€
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áãô¹şÿÿÿÿ
+^squid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112Ä"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¯¬¥
+Msquid:S2696%"6Make the enclosing method "static" or remove this set.(–äå¹
+Msquid:S2696|"6Make the enclosing method "static" or remove this set.(¡œÇ
+Ssquid:S2696È"6Make the enclosing method "static" or remove this set.(ÉúÈ­ıÿÿÿÿ

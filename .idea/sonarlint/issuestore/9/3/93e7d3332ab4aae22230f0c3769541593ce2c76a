@@ -1,0 +1,25 @@
+
+|squid:S1192S"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192G"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+lsquid:S1192'"PDefine a constant instead of duplicating this literal "Enter string1: " 3 times.(£ƒ®İÿÿÿÿÿ
+gsquid:S1192)"PDefine a constant instead of duplicating this literal "Enter string2: " 3 times.(–şØÛ
+^squid:S1192:"GDefine a constant instead of duplicating this literal "Error!" 3 times.(À›Û
+]squid:S1192$"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(À°éó
+Usquid:S4973."9Use the "equals" method if value comparison was intended.(†å´ûÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğîÒãşÿÿÿÿ
+csquid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+dsquid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ášœŞ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼’‰Ü
+bsquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Psquid:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093""*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+nsquid:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğ–­Éùÿÿÿÿ
+gsquid:S1764\"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+Psquid:S4719i"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093g"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§˜¨äşÿÿÿÿ
+csquid:S1764¤"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Qsquid:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093¨"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

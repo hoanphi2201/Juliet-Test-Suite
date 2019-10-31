@@ -1,0 +1,5 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œò³Æÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¸Æ™ÿÿÿÿÿ
+esquid:UselessImportCheck"<Remove this unused import 'javax.crypto.spec.SecretKeySpec'.(¹«è•üÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'javax.crypto.Cipher'.(ç‡‡³øÿÿÿÿ

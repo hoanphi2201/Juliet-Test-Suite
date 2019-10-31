@@ -1,0 +1,15 @@
+
+esquid:S1192'"IDefine a constant instead of duplicating this literal "result: " 3 times.(≠¿•π˘ˇˇˇˇ
+Isquid:S11992"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+Jsquid:S1199≥"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+Qsquid:S1141D"5Extract this nested try block into a separate method.(Á£Íç˙ˇˇˇˇ
+Rsquid:S1141≈"5Extract this nested try block into a separate method.(Á£Íç˙ˇˇˇˇ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢íµé
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(Ï∆ù…˝ˇˇˇˇ
+dsquid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(∆Õ®úˇˇˇˇˇ
+_squid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(€Ãº—
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ŒË◊˙ˇˇˇˇ
+tsquid:S4144Ñ"WUpdate this method so that its implementation is not identical to "badSink" on line 32.(∆Õ®úˇˇˇˇˇ
+=squid:S1905%"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905â"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905°"&Remove this unnecessary cast to "int".(Ñ∫÷≈

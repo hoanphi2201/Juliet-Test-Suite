@@ -1,0 +1,11 @@
+
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199_"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÌ©Ôıÿÿÿÿ
+csquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(ø‘¤›şÿÿÿÿ
+csquid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(¯¢˜øÿÿÿÿ
+^squid:S00112X"FDefine and throw a dedicated exception instead of using a generic one.(ôØ è
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+psquid:S4144X"YUpdate this method so that its implementation is not identical to "badSource" on line 33.(ôØ è
+Fsquid:S2093,"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Fsquid:S2093c"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

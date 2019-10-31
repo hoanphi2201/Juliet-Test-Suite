@@ -1,0 +1,12 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã¤—ì
+Dsquid:S1604"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Dsquid:S1604%"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Dsquid:S1604G"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Dsquid:S1604O"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ£şıÿÿÿÿ
+isquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(™£Ä2
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(œª©
+Fsquid:S00108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(å°Áòüÿÿÿÿ
+jsquid:ModifiersOrderCheck<"EReorder the modifiers to comply with the Java Language Specification.(ûõ¦²

@@ -1,0 +1,18 @@
+
+isquid:S11920"RDefine a constant instead of duplicating this literal "/author.jsp?lang=" 5 times.(ø—òã
+`squid:S11920"IDefine a constant instead of duplicating this literal "Location" 5 times.(ø—òã
+Fsquid:S1066-"/Merge this if statement with the enclosing one.(Ì ¨‘
+Fsquid:S1066I"/Merge this if statement with the enclosing one.(Ì ¨‘
+Fsquid:S1066c"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066¡"/Merge this if statement with the enclosing one.(Ì ¨‘
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»²×H
+^squid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112R"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤şËüÿÿÿÿ
+Esquid:S11726".Remove this unused method parameter "request".(ÙÌú
+Esquid:S1172R".Remove this unused method parameter "request".(ÚØ÷“
+Esquid:S1172l".Remove this unused method parameter "request".(õåæ˜
+Ksquid:S1172".Remove this unused method parameter "request".(§¬×Ôùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï¢ìùÿÿÿÿ

@@ -1,0 +1,19 @@
+
+Isquid:S11999"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199L"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ïŠû
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(™ÔŞİ
+^squid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(¸ª¬¿
+^squid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(÷Íê
+csquid:S00112^"FDefine and throw a dedicated exception instead of using a generic one.(¤ äïüÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëçˆ¥
+Esquid:S1172".Remove this unused method parameter "request".(™ÔŞİ
+Tsquid:S1854("8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Esquid:S1172-".Remove this unused method parameter "request".(¸ª¬¿
+Tsquid:S18543"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Usquid:S4719="9Replace charset name argument with StandardCharsets.UTF_8(¨ş£ƒúÿÿÿÿ
+Esquid:S1172G".Remove this unused method parameter "request".(÷Íê
+Tsquid:S1854Y"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Usquid:S4719P"9Replace charset name argument with StandardCharsets.UTF_8(¨ş£ƒúÿÿÿÿ
+Jsquid:S1172^".Remove this unused method parameter "request".(¤ äïüÿÿÿÿ
+Tsquid:S1854j"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ

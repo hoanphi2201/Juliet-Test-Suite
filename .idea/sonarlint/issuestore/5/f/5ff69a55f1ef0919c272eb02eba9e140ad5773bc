@@ -1,0 +1,8 @@
+
+bsquid:S1192!"FDefine a constant instead of duplicating this literal "Hello" 3 times.(ó¹Í•şÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©œ‘™üÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ø¶€•
+^squid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(Ïí»ò
+csquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(±‹¥Œıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+nsquid:S4144'"WUpdate this method so that its implementation is not identical to "badSink" on line 25.(Ïí»ò

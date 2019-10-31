@@ -1,0 +1,45 @@
+
+hsquid:S1192B"LDefine a constant instead of duplicating this literal "badSink.txt" 3 times.(Ş“™Êúÿÿÿÿ
+ysquid:S1192]"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 5 times.(Ã¥Œ¹ùÿÿÿÿ
+xsquid:S1192h"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 5 times.(í†Ñ’
+]squid:S1192L"FDefine a constant instead of duplicating this literal "Hello" 5 times.(±½ã
+{squid:S1192s"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 5 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192D"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(¨ªª›úÿÿÿÿ
+‰squid:S11924"rDefine a constant instead of duplicating this literal "Number format exception parsing count from string" 3 times.(İŸŸ¡
+vsquid:S1192P"ZDefine a constant instead of duplicating this literal "Error with stream writing" 5 times.(ë‰ÜŸıÿÿÿÿ
+Lsquid:S1066"/Merge this if statement with the enclosing one.(¬šúÿÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199“"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589«"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589V"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589¶"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589 "7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589Ò"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589Ç"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589¢"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Nsquid:S2589a"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589è"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589­"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589İ"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589¸"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589ş"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589ó"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589l"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+jsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷íõêşÿÿÿÿ
+^squid:S00112y"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112‹"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+isquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼’‰Ü
+Usquid:S4719D"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+isquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(•ßçˆ
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ùÍŒ
+Vsquid:S4719Ö"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÅËßï
+Vsquid:S4719¶"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ªËáèşÿÿÿÿ
+Vsquid:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¡›—

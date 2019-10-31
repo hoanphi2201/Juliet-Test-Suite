@@ -1,0 +1,20 @@
+
+wsquid:S1192K"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 3 times.(Ãº°—şÿÿÿÿ
+psquid:S1192L"TDefine a constant instead of duplicating this literal "' and pass/text()='" 3 times.(¢™›ûÿÿÿÿ
+¥squid:S11923"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 3 times.(ÚÖ‘ø
+fsquid:S1192M"ODefine a constant instead of duplicating this literal "/secret/text()" 3 times.(÷æ¢Æ
+dsquid:S11920"HDefine a constant instead of duplicating this literal "os.name" 3 times.(äæçşÿÿÿÿ
+¢squid:S11928"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 3 times.(¨½ªè
+Nsquid:S2589n"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ„ÀØüÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(åÁÔØøÿÿÿÿ
+^squid:S00112T"FDefine and throw a dedicated exception instead of using a generic one.(³Ş€ò
+_squid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(ììŞé
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+qsquid:S4144‡"YUpdate this method so that its implementation is not identical to "badSource" on line 32.(ììŞé
+Vsquid:S1854N":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854³":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Gsquid:S1481N"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481³"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ

@@ -1,0 +1,15 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ã§¾þÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ÷·þúÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(èöòõüÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ê£­‚
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ä±–åüÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ö˜û‘
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(—„Ÿ±ûÿÿÿÿ
+osquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(Õš•Ãÿÿÿÿÿ
+osquid:ModifiersOrderCheckF"EReorder the modifiers to comply with the Java Language Specification.(¼åõøþÿÿÿÿ
+isquid:ModifiersOrderCheckG"EReorder the modifiers to comply with the Java Language Specification.(Äñýb
+osquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(’Õ¤Üþÿÿÿÿ
+jsquid:ModifiersOrderCheckJ"EReorder the modifiers to comply with the Java Language Specification.(„³ÔÑ
+osquid:ModifiersOrderCheckL"EReorder the modifiers to comply with the Java Language Specification.(Ä—“Ðøÿÿÿÿ
+jsquid:ModifiersOrderCheckZ"EReorder the modifiers to comply with the Java Language Specification.(÷¤Åž

@@ -1,0 +1,36 @@
+
+squid:S1192E"qDefine a constant instead of duplicating this literal "Number format exception parsing data from string" 3 times.(­ôÆèûÿÿÿÿ
+vsquid:S1192K"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192e"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+rsquid:S1192~"[Define a constant instead of duplicating this literal "Error closing ServerSocket" 3 times.(§¦ğ°
+ssquid:S1192Y"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+lsquid:S1192r"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+fsquid:S1192"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+bsquid:S11929"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Isquid:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Å"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141?"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141İ"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141Ö"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®Ü×0
+_squid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äªğÊ
+isquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¼’‰Ü
+Usquid:S47199"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20934"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Csquid:S1905"&Remove this unnecessary cast to "int".(æ»şœıÿÿÿÿ
+Csquid:S1905§"&Remove this unnecessary cast to "int".(æ»şœıÿÿÿÿ
+Csquid:S1905¿"&Remove this unnecessary cast to "int".(æ»şœıÿÿÿÿ
+jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÅËßï
+Vsquid:S4719×"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ò"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Csquid:S1905³"&Remove this unnecessary cast to "int".(æ»şœıÿÿÿÿ
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ªËáèşÿÿÿÿ
+Vsquid:S4719Ğ"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ë"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Csquid:S1905¦"&Remove this unnecessary cast to "int".(æ»şœıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

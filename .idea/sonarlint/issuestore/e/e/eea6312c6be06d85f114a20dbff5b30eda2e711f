@@ -1,0 +1,29 @@
+
+nsquid:S1192?"WDefine a constant instead of duplicating this literal "Array size is negative" 5 times.(Âº
+[squid:S2583K"DChange this condition so that it does not always evaluate to "false"(´É½¼
+\squid:S2583"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583‘"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583)"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583o"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583½"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S25895"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589{"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589Y"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589É"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÉÏü‘
+`squid:S2259³"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259B"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259f"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259ˆ"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259×"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+^squid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™’‰¾üÿÿÿÿ
+Osquid:S11977"8Move the array designator from the variable to the type.(ØğÍ—
+Osquid:S1197["8Move the array designator from the variable to the type.(ØğÍ—
+Osquid:S1197}"8Move the array designator from the variable to the type.(ØğÍ—
+Psquid:S1197¦"8Move the array designator from the variable to the type.(ØğÍ—
+Psquid:S1197Ì"8Move the array designator from the variable to the type.(ØğÍ—
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

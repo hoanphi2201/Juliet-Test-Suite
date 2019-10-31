@@ -1,0 +1,15 @@
+
+Isquid:S1199-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199C"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199X"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583:"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589*"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589U"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•à÷È
+csquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+csquid:S00112S"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ†Î¦ÿÿÿÿÿ
+]squid:CallToDeprecatedMethod0"0Remove this use of "readLine"; it is deprecated.(İÉ¦şÿÿÿÿ
+Osquid:S4719D"9Replace charset name argument with StandardCharsets.UTF_8(©Ä“`
+Osquid:S4719Y"9Replace charset name argument with StandardCharsets.UTF_8(©Ä“`
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

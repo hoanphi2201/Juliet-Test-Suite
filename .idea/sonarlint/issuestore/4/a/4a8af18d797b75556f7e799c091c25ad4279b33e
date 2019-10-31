@@ -1,0 +1,28 @@
+
+qsquid:S11929"UDefine a constant instead of duplicating this literal "Invalid redirect URL" 3 times.(µ–ÔÎıÿÿÿÿ
+Isquid:S1199K"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òôüÓûÿÿÿÿ
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(»»» úÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+dsquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ø åüÿÿÿÿ
+_squid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ÕôÊÕ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ± 0
+xsquid:S00116u"[Rename this field "goodG2B1_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡ø¼üÿÿÿÿ
+xsquid:S00116v"[Rename this field "goodG2B2_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”°Öèûÿÿÿÿ
+2squid:S3626>"Remove this redundant jump.(ûÁİ…
+Ssquid:S18545"7Remove this useless assignment to local variable "uri".(Û¨¢ùÿÿÿÿ
+ksquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»» úÿÿÿÿ
+Bsquid:S1172C"&Remove these unused method parameters.(»»» úÿÿÿÿ
+Fsquid:S2093N"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+3squid:S3626—"Remove this redundant jump.(ûÁİ…
+Tsquid:S1854"7Remove this useless assignment to local variable "uri".(Û¨¢ùÿÿÿÿ
+lsquid:S00100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø åüÿÿÿÿ
+Csquid:S1172œ"&Remove these unused method parameters.(Ø åüÿÿÿÿ
+3squid:S3626Ê"Remove this redundant jump.(ûÁİ…
+Tsquid:S1854Á"7Remove this useless assignment to local variable "uri".(Û¨¢ùÿÿÿÿ
+gsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕôÊÕ
+>squid:S1172Ï"&Remove these unused method parameters.(ÕôÊÕ
+Dsquid:S14812"(Remove this unused "uri" local variable.(À§ÔÄøÿÿÿÿ
+Esquid:S1481‹"(Remove this unused "uri" local variable.(À§ÔÄøÿÿÿÿ
+Esquid:S1481¾"(Remove this unused "uri" local variable.(À§ÔÄøÿÿÿÿ

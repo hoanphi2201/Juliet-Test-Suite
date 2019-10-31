@@ -1,0 +1,40 @@
+
+ssquid:S1192:"\Define a constant instead of duplicating this literal "../common/config.properties" 5 times.(‚¹ÂŠ
+vsquid:S1192@"ZDefine a constant instead of duplicating this literal "Error with stream reading" 5 times.(…µŠûÿÿÿÿ
+_squid:S1192<"IDefine a constant instead of duplicating this literal "password" 5 times.(¡ó¶{
+ysquid:S1192d"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192q"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+isquid:S1192ª"QDefine a constant instead of duplicating this literal "ABCDEFGHABCDEFGH" 4 times.(ö«ÉÅ
+usquid:S1192N"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 5 times.(Ã»àĞ
+fsquid:S1192`"ODefine a constant instead of duplicating this literal "192.168.105.23" 5 times.(ü’¦
+_squid:S1192ª"GDefine a constant instead of duplicating this literal "UTF-8" 12 times.(ö«ÉÅ
+Jsquid:S1199¦"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ù"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199®"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïÒöƒûÿÿÿÿ
+]squid:S2259à"FA "NullPointerException" could be thrown; "password" is nullable here.(‹ÀŞs
+^squid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¦ó†
+Fsquid:S20938"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Gsquid:S2093Š"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719­"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719­"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Gsquid:S2093Ú"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719ø"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719û"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719û"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+jsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅËßï
+Gsquid:S2093®"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719İ"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719à"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719à"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Gsquid:S2093‰"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719±"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

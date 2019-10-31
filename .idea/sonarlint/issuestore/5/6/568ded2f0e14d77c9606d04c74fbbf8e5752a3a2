@@ -1,0 +1,16 @@
+
+ksquid:S1192!"ODefine a constant instead of duplicating this literal "zeroOrOne is 0" 3 times.(³Ÿ†øÿÿÿÿ
+lsquid:S1192'"UDefine a constant instead of duplicating this literal "Benign, fixed string" 3 times.(³ù‰Â
+hsquid:S1192#"LDefine a constant instead of duplicating this literal "isZero is: " 3 times.(éÑşüÿÿÿÿ
+bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+bsquid:S1301D"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±÷İs
+csquid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+csquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Û¤ôÿÿÿÿÿ
+Dsquid:S1125"(Remove the literal "true" boolean value.(Î¿Éáüÿÿÿÿ
+?squid:S11258"(Remove the literal "true" boolean value.(ÙÕ³ß
+?squid:S1125I"(Remove the literal "true" boolean value.(ÙÕ³ß
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏÜñâ
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¢òÙÒ

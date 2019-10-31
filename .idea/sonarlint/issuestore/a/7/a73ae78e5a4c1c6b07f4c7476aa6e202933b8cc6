@@ -1,0 +1,8 @@
+
+Isquid:S1199""-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õõÔ€
+csquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ± 0
+Tsquid:S1197#"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+usquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û–ßˆøÿÿÿÿ
+usquid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û–ßˆøÿÿÿÿ

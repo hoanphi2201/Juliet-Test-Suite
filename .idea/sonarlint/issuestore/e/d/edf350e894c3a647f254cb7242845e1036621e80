@@ -1,0 +1,31 @@
+
+ssquid:S11923"\Define a constant instead of duplicating this literal "../common/config.properties" 4 times.(‚¹ÂŠ
+vsquid:S1192:"ZDefine a constant instead of duplicating this literal "Error with stream reading" 4 times.(…µŠûÿÿÿÿ
+_squid:S11926"IDefine a constant instead of duplicating this literal "password" 4 times.(¡ó¶{
+usquid:S1192H"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 4 times.(Ã»àĞ
+^squid:S1192à"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ö«ÉÅ
+Jsquid:S1199Ü"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1444&"5Make this "public static badPublicStatic" field final(Œç¿‹şÿÿÿÿ
+Vsquid:S1444T":Make this "public static goodB2G1PublicStatic" field final(ÔÎìúÿÿÿÿ
+Vsquid:S1444U":Make this "public static goodB2G2PublicStatic" field final(ÒÌ‡ïúÿÿÿÿ
+Usquid:S1444V"9Make this "public static goodG2BPublicStatic" field final(°Õ‘…üÿÿÿÿ
+"squid:ClassVariableVisibilityCheck&"[Make badPublicStatic a static final constant or non-public and provide accessors if needed.(Œç¿‹şÿÿÿÿ
+“"squid:ClassVariableVisibilityCheckT"`Make goodB2G1PublicStatic a static final constant or non-public and provide accessors if needed.(ÔÎìúÿÿÿÿ
+“"squid:ClassVariableVisibilityCheckU"`Make goodB2G2PublicStatic a static final constant or non-public and provide accessors if needed.(ÒÌ‡ïúÿÿÿÿ
+’"squid:ClassVariableVisibilityCheckV"_Make goodG2BPublicStatic a static final constant or non-public and provide accessors if needed.(°Õ‘…üÿÿÿÿ
+jsquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒçöëùÿÿÿÿ
+^squid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112‹"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+_squid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¦ó†
+Fsquid:S20931"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Msquid:S2696N"6Make the enclosing method "static" or remove this set.(–äå¹
+Fsquid:S2093i"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Ssquid:S2696†"6Make the enclosing method "static" or remove this set.(àÄ‹Şøÿÿÿÿ
+Gsquid:S2093”"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Nsquid:S2696±"6Make the enclosing method "static" or remove this set.(È’„”
+Gsquid:S2093À"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719à"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719ã"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719ã"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Nsquid:S2696ç"6Make the enclosing method "static" or remove this set.(ÂëËÑ

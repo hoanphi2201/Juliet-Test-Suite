@@ -1,0 +1,34 @@
+
+—squid:S1192v"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(ğáÖ§úÿÿÿÿ
+|squid:S1192T"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 6 times.(±İÜëşÿÿÿÿ
+usquid:S1192"XDefine a constant instead of duplicating this literal "Error closing Statement" 3 times.(‘¾¶«şÿÿÿÿ
+ssquid:S1192y"WDefine a constant instead of duplicating this literal ", updated successfully" 6 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192y"GDefine a constant instead of duplicating this literal "Name, " 6 times.(°ÓÄƒùÿÿÿÿ
+osquid:S1192H"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 3 times.(úÂÔÅ
+ysquid:S11923"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+zsquid:S1192‚"bDefine a constant instead of duplicating this literal "Error getting database connection" 6 times.(ù÷êµ
+usquid:S1192`"YDefine a constant instead of duplicating this literal "Error closing Connection" 9 times.(äªøûÿÿÿÿ
+usquid:S1192:"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+“squid:S1192©"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name=?" 3 times.(«Í‘§
+€squid:S1192}"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 6 times.(šÚçıÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ß"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸± ÿÿÿÿÿ
+_squid:S00112Û"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112Ø"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+Asquid:S5411w"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411®"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411õ"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411«"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411ë"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411¢"*Use the primitive boolean expression here.(“±˜Ï
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+isquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¼’‰Ü
+jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ò¸ˆÓ
+xsquid:S3923Ş"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+xsquid:S3923ë"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+osquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(”øÿÿÿÿ
+xsquid:S3923Û"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+xsquid:S3923à"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

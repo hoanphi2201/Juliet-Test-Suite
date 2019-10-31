@@ -1,0 +1,13 @@
+
+¯squid:S1192*"’Define a constant instead of duplicating this literal "<form id=\"form\" name=\"form\" method=\"post\" action=\"password-test-servlet\">" 3 times.(Æ°“•ýÿÿÿÿ
+©squid:S1192+"ŒDefine a constant instead of duplicating this literal "Username: <input name=\"username\" type=\"text\" tabindex=\"10\" /><br><br>" 3 times.(ÊÑ‹ñøÿÿÿÿ
+[squid:S25835"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589I"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589("7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•Èž©ùÿÿÿÿ
+csquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+csquid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(Á£§åþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒµ—™
+Jsquid:S11723".Remove this unused method parameter "request".(–ìµÏøÿÿÿÿ
+Jsquid:S1172G".Remove this unused method parameter "request".(Á£§åþÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

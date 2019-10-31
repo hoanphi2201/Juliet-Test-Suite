@@ -1,0 +1,24 @@
+
+|squid:S1192U"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 3 times.(±İÜëşÿÿÿÿ
+fsquid:S1192"IDefine a constant instead of duplicating this literal " out of " 3 times.(²£Ä şÿÿÿÿ
+gsquid:S1192"JDefine a constant instead of duplicating this literal " queries." 3 times.(²£Ä şÿÿÿÿ
+ksquid:S1192"NDefine a constant instead of duplicating this literal "Succeeded in " 3 times.(²£Ä şÿÿÿÿ
+zsquid:S1192…"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192a"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+Isquid:S1199+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589´"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êì™ÿ
+_squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112ò"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+isquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(¼’‰Ü
+Osquid:S1197l"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197y"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ò¸ˆÓ
+Psquid:S1197¶"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Ã"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(”øÿÿÿÿ
+Psquid:S1197»"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197É"8Move the array designator from the variable to the type.(Ñ Ã
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Í™ë

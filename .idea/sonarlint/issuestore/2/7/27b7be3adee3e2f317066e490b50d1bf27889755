@@ -1,0 +1,7 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ò£úÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŸüÿÿÿÿ
+4squid:S2119"Save and re-use this "Random".(¼İÅf
+Vsquid:S2133"@Remove this object instantiation and use "Random.class" instead.(¼İÅf
+bsquid:S2133"FRemove this object instantiation and use "SecureRandom.class" instead.(ù¹ºıÿÿÿÿ
+Tsquid:S1197!"8Move the array designator from the variable to the type.(¿å‚Æıÿÿÿÿ

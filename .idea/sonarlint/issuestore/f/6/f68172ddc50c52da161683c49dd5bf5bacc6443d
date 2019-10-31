@@ -1,0 +1,26 @@
+
+ssquid:S11923"\Define a constant instead of duplicating this literal "../common/config.properties" 3 times.(‚¹ÂŠ
+vsquid:S1192:"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+_squid:S11926"IDefine a constant instead of duplicating this literal "password" 3 times.(¡ó¶{
+ysquid:S1192^"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192k"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+usquid:S1192H"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 3 times.(Ã»àĞ
+fsquid:S1192Z"ODefine a constant instead of duplicating this literal "192.168.105.23" 3 times.(ü’¦
+^squid:S1192œ"FDefine a constant instead of duplicating this literal "UTF-8" 6 times.(ö«ÉÅ
+Jsquid:S1199˜"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µì£™úÿÿÿÿ
+csquid:S00112("FDefine and throw a dedicated exception instead of using a generic one.(åÁÔØøÿÿÿÿ
+^squid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(³Ş€ò
+_squid:S00112Ç"FDefine and throw a dedicated exception instead of using a generic one.(ììŞé
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¦ó†
+qsquid:S4144Ç"YUpdate this method so that its implementation is not identical to "badSource" on line 40.(ììŞé
+Fsquid:S20931"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Fsquid:S2093|"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719œ"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Gsquid:S2093Ğ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719ù"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719ü"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719ü"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs

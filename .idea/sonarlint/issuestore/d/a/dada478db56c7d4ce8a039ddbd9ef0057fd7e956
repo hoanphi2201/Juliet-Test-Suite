@@ -1,0 +1,25 @@
+
+wsquid:S1192?"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 4 times.(Ãº°—şÿÿÿÿ
+psquid:S1192@"TDefine a constant instead of duplicating this literal "' and pass/text()='" 4 times.(¢™›ûÿÿÿÿ
+¥squid:S1192("Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 4 times.(ÚÖ‘ø
+fsquid:S1192A"ODefine a constant instead of duplicating this literal "/secret/text()" 4 times.(÷æ¢Æ
+dsquid:S1192%"HDefine a constant instead of duplicating this literal "os.name" 4 times.(äæçşÿÿÿÿ
+¢squid:S1192-"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 4 times.(¨½ªè
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“·ÌØùÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(äçÇ°şÿÿÿÿ
+^squid:S00112N"FDefine and throw a dedicated exception instead of using a generic one.(èó¸Î
+csquid:S00112}"FDefine and throw a dedicated exception instead of using a generic one.(¨Ïãóÿÿÿÿÿ
+dsquid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(— Œœùÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+Vsquid:S1854B":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Tsquid:S1854I"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Tsquid:S1854T"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Vsquid:S1854v":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Usquid:S1854¤"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Wsquid:S1854Ë":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Usquid:S1854Ò"8Remove this useless assignment to local variable "data".(ĞÑ‘ıÿÿÿÿ
+Gsquid:S1481B"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Gsquid:S1481v"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ë"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ

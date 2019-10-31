@@ -1,0 +1,25 @@
+
+esquid:S11928"IDefine a constant instead of duplicating this literal " out of " 3 times.(²£Ä şÿÿÿÿ
+fsquid:S11928"JDefine a constant instead of duplicating this literal " queries." 3 times.(²£Ä şÿÿÿÿ
+jsquid:S11928"NDefine a constant instead of duplicating this literal "Succeeded in " 3 times.(²£Ä şÿÿÿÿ
+ysquid:S1192<"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192U"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°Ê­æ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ö«òüÿÿÿÿ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(“¢ß
+dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(¸Ï¶ÿ
+_squid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ö«òüÿÿÿÿ
+Bsquid:S1172"&Remove these unused method parameters.(ö«òüÿÿÿÿ
+Osquid:S1197#"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S11970"8Move the array designator from the variable to the type.(Ñ Ã
+isquid:S3776l"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“¢ß
+=squid:S1172l"&Remove these unused method parameters.(“¢ß
+Osquid:S1197q"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197~"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸Ï¶ÿ
+>squid:S1172µ"&Remove these unused method parameters.(¸Ï¶ÿ
+Psquid:S1197º"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197È"8Move the array designator from the variable to the type.(Ñ Ã

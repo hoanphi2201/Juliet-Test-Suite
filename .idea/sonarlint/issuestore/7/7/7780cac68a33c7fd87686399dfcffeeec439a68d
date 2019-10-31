@@ -1,0 +1,41 @@
+
+vsquid:S1192?"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192Y"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+rsquid:S1192r"[Define a constant instead of duplicating this literal "Error closing ServerSocket" 3 times.(§¦ğ°
+ssquid:S1192M"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+lsquid:S1192f"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+bsquid:S11928"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Gsquid:S1066€"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066œ"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066¶"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066„"/Merge this if statement with the enclosing one.(Ì ¨‘
+Isquid:S1199-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ç"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199±"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589¶"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸¹¢¢ÿÿÿÿÿ
+_squid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÖŠ¤
+isquid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¼’‰Ü
+Usquid:S47198"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20933"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+P
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÅËßï
+Vsquid:S4719Ò"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Í"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ÊƒàË
+osquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ªËáèşÿÿÿÿ
+Vsquid:S4719¼"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093·"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ÊƒàË
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

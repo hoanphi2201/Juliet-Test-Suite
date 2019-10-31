@@ -1,0 +1,17 @@
+
+Isquid:S1199!"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199;"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199J"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1444"5Make this "public static badPublicStatic" field final(Œç¿‹şÿÿÿÿ
+Vsquid:S1444*":Make this "public static goodG2B1PublicStatic" field final(å÷âùÿÿÿÿ
+Qsquid:S1444+":Make this "public static goodG2B2PublicStatic" field final(Ûƒøò
+"squid:ClassVariableVisibilityCheck"[Make badPublicStatic a static final constant or non-public and provide accessors if needed.(Œç¿‹şÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck*"`Make goodG2B1PublicStatic a static final constant or non-public and provide accessors if needed.(å÷âùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck+"`Make goodG2B2PublicStatic a static final constant or non-public and provide accessors if needed.(Ûƒøò
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿ¼³É
+^squid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä’‘Îşÿÿÿÿ
+Msquid:S2696"6Make the enclosing method "static" or remove this set.(–äå¹
+Msquid:S26968"6Make the enclosing method "static" or remove this set.(¡œÇ
+Rsquid:S2696G"6Make the enclosing method "static" or remove this set.(ÉúÈ­ıÿÿÿÿ

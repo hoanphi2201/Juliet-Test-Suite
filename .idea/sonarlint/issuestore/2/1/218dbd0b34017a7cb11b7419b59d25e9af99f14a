@@ -1,0 +1,10 @@
+
+Qsquid:S1141""5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Qsquid:S1141."5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Ssquid:S2589$"7Remove this expression which always evaluates to "true"(ì—Íşüÿÿÿÿ
+Ssquid:S25890"7Remove this expression which always evaluates to "true"(ù¨û¤ûÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÚñÂ€
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ“¶úÿÿÿÿ
+Psquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Psquid:S4719G"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093E"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

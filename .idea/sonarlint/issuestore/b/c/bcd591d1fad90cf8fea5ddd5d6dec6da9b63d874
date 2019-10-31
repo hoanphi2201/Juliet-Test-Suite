@@ -1,0 +1,17 @@
+
+isquid:S1192'"RDefine a constant instead of duplicating this literal "/author.jsp?lang=" 3 times.(ø—òã
+`squid:S1192'"IDefine a constant instead of duplicating this literal "Location" 3 times.(ø—òã
+Isquid:S11993"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199s"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íâÆùÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(©Õ üÿÿÿÿ
+^squid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(ÅÙ™
+csquid:S00112S"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+csquid:S00112^"FDefine and throw a dedicated exception instead of using a generic one.(Úæÿ“úÿÿÿÿ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªèÖšùÿÿÿÿ
+Jsquid:S1172 ".Remove this unused method parameter "request".(©Õ üÿÿÿÿ
+Tsquid:S11974"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Esquid:S1172F".Remove this unused method parameter "request".(ÅÙ™
+Jsquid:S1172^".Remove this unused method parameter "request".(Úæÿ“úÿÿÿÿ
+Tsquid:S1197t"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ

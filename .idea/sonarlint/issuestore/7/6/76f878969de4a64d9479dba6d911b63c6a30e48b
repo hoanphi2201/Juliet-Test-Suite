@@ -1,0 +1,11 @@
+
+Isquid:S11992"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤¹€„øÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ñ™–Üÿÿÿÿÿ
+_squid:S00112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(¾‰¨‡
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Š±N
+osquid:S4144ˆ"WUpdate this method so that its implementation is not identical to "badSink" on line 32.(¾‰¨‡
+[squid:CallToDeprecatedMethod%"3Remove this use of "newInstance"; it is deprecated.(ìµó
+Usquid:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20939"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+\squid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(ìµó

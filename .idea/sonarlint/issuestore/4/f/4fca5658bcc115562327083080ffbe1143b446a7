@@ -1,0 +1,7 @@
+
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÔŠ%
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ñ®¼ùþÿÿÿÿ
+csquid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(×½ª€ýÿÿÿÿ
+^squid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(œµý¯
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Àâ¨
+psquid:S4144-"YUpdate this method so that its implementation is not identical to "badSource" on line 23.(œµý¯

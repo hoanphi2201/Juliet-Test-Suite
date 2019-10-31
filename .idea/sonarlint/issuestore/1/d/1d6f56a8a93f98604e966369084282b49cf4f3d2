@@ -1,0 +1,21 @@
+
+ksquid:S11927"TDefine a constant instead of duplicating this literal "multipart/form-data" 3 times.(àÊÎç
+vsquid:S1192["ZDefine a constant instead of duplicating this literal "Error closing InputStream" 3 times.(â÷Ê×úÿÿÿÿ
+^squid:S1192N"GDefine a constant instead of duplicating this literal "Error!" 3 times.(À›Û
+{squid:S1192g"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+fsquid:S1192j"ODefine a constant instead of duplicating this literal "Uploaded file!" 3 times.(‹µôø
+u
+squid:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+u
+squid:S135Ñ"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É‰ıúÿÿÿÿ
+csquid:S00112o"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+dsquid:S00112À"FDefine and throw a dedicated exception instead of using a generic one.(Á£§åşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÛñ¿
+isquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ûóÌå
+Fsquid:S2093="*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+nsquid:S3776o"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(–ìµÏøÿÿÿÿ
+Gsquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Á£§åşÿÿÿÿ
+Gsquid:S2093Ê"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ø´

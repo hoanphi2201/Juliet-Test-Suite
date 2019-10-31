@@ -1,0 +1,22 @@
+
+Isquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199‡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Asquid:S1444"*Make this "public static data" field final(òò¶™
+Qsquid:S11418"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141š"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(òò¶™
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œçéøÿÿÿÿ
+^squid:S00112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÚÁ±ûÿÿÿÿ
+Rsquid:S2696$"6Make the enclosing method "static" or remove this set.(ÄìŠ»ùÿÿÿÿ
+]squid:S1075&"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Rsquid:S2696:"6Make the enclosing method "static" or remove this set.(ĞÄ¾Êıÿÿÿÿ
+Fsquid:S2093+"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Rsquid:S2696}"6Make the enclosing method "static" or remove this set.(Ğİ‰şÿÿÿÿ
+Ssquid:S2696†"6Make the enclosing method "static" or remove this set.(ÄìŠ»ùÿÿÿÿ
+^squid:S1075ˆ"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Ssquid:S2696œ"6Make the enclosing method "static" or remove this set.(ĞÄ¾Êıÿÿÿÿ
+Gsquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

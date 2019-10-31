@@ -1,0 +1,14 @@
+
+Isquid:S1199&"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰Ñ·í
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æ™ª‘
+^squid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(£»”§
+csquid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í Øº
+rsquid:S11497"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+rsquid:S1149w"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+Fsquid:S1172"/Remove this unused method parameter "response".(æ™ª‘
+Tsquid:S1197'"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+usquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+=squid:S1172h"&Remove these unused method parameters.(£»”§
+usquid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ

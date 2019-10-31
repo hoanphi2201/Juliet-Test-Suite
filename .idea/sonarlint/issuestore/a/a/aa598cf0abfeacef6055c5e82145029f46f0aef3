@@ -1,0 +1,43 @@
+
+—squid:S1192E"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(ïàóŸúÿÿÿÿ
+|squid:S1192_"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±İÜëşÿÿÿÿ
+lsquid:S1192q"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+ssquid:S1192I"WDefine a constant instead of duplicating this literal ", updated successfully" 5 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192I"GDefine a constant instead of duplicating this literal "Name, " 5 times.(°ÓÄƒùÿÿÿÿ
+ysquid:S1192R"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192k"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+€squid:S1192M"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 5 times.(šÚçıÿÿÿÿ
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199˜"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:S1301#"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301{"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+csquid:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301Ç"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301Ô"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301¬"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301ì"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301…"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÍÈ­üÿÿÿÿ
+^squid:S00112w"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+Asquid:S5411G"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411“"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411ß"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411¼"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411‘"*Use the primitive boolean expression here.(“±˜Ï
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ûóÌå
+=squid:S1172w"&Remove these unused method parameters.(ÙÌú
+>squid:S1172Ã"&Remove these unused method parameters.(ÚØ÷“
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õåæ˜
+Gsquid:S1172"/Remove this unused method parameter "response".(õåæ˜
+osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172è"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±şÿÿÿÿ
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(¢úï
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ÅÓ“

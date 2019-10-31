@@ -1,0 +1,19 @@
+
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:S1301""KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301L"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+gsquid:S1301c"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ú±Âÿÿÿÿÿ
+^squid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112_"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…˜ø‘
+Usquid:S1854C">Remove this useless assignment to local variable "intHashSet".(îìÈş
+=squid:S1172H"&Remove these unused method parameters.(ÙÌú
+Usquid:S1854Z">Remove this useless assignment to local variable "intHashSet".(îìÈş
+=squid:S1172_"&Remove these unused method parameters.(ÚØ÷“
+Usquid:S1854q">Remove this useless assignment to local variable "intHashSet".(îìÈş
+Fsquid:S1481C"/Remove this unused "intHashSet" local variable.(îìÈş
+Fsquid:S1481Z"/Remove this unused "intHashSet" local variable.(îìÈş
+Fsquid:S1481q"/Remove this unused "intHashSet" local variable.(îìÈş
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı“´øÿÿÿÿ
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(·“à”

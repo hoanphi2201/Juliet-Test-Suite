@@ -1,0 +1,33 @@
+
+squid:S1192;"qDefine a constant instead of duplicating this literal "Number format exception parsing data from string" 3 times.(­ôÆèûÿÿÿÿ
+vsquid:S1192A"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192["`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192O"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+]squid:S1192-"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(À°éó
+Qsquid:S1444"5Make this "public static badPublicStatic" field final(Œç¿‹şÿÿÿÿ
+Vsquid:S1444e":Make this "public static goodB2G1PublicStatic" field final(ÔÎìúÿÿÿÿ
+Vsquid:S1444f":Make this "public static goodB2G2PublicStatic" field final(ÒÌ‡ïúÿÿÿÿ
+Usquid:S1444g"9Make this "public static goodG2BPublicStatic" field final(°Õ‘…üÿÿÿÿ
+Qsquid:S11415"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141…"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141È"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make badPublicStatic a static final constant or non-public and provide accessors if needed.(Œç¿‹şÿÿÿÿ
+“"squid:ClassVariableVisibilityChecke"`Make goodB2G1PublicStatic a static final constant or non-public and provide accessors if needed.(ÔÎìúÿÿÿÿ
+“"squid:ClassVariableVisibilityCheckf"`Make goodB2G2PublicStatic a static final constant or non-public and provide accessors if needed.(ÒÌ‡ïúÿÿÿÿ
+’"squid:ClassVariableVisibilityCheckg"_Make goodG2BPublicStatic a static final constant or non-public and provide accessors if needed.(°Õ‘…üÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øïù¹øÿÿÿÿ
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112´"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+_squid:S00112÷"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÚÁ±ûÿÿÿÿ
+Psquid:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093+"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Msquid:S2696_"6Make the enclosing method "static" or remove this set.(–äå¹
+Psquid:S4719}"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093{"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Ssquid:S2696¯"6Make the enclosing method "static" or remove this set.(àÄ‹Şøÿÿÿÿ
+Qsquid:S4719À"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093¾"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Nsquid:S2696ò"6Make the enclosing method "static" or remove this set.(È’„”
+Psquid:S1854ù"8Remove this useless assignment to local variable "data".(«÷œ
+Nsquid:S2696ş"6Make the enclosing method "static" or remove this set.(ÂëËÑ

@@ -1,0 +1,24 @@
+
+squid:S11926"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 5 times.( ğ¨Œ
+lsquid:S1192A"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+asquid:S1192#"JDefine a constant instead of duplicating this literal "user.home" 3 times.(»¯ùŠ
+hsquid:S1192<"LDefine a constant instead of duplicating this literal "hello world" 5 times.(ú¥‡öøÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+bsquid:S1301X"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+gsquid:S1301w"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301„"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301£"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301±"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301Ó"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301á"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔÉ¦ä
+^squid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±şÿÿÿÿ
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¢úï
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ÅÓ“

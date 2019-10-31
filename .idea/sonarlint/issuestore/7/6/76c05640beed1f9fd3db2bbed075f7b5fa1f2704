@@ -1,0 +1,49 @@
+
+ssquid:S1192<"\Define a constant instead of duplicating this literal "../common/config.properties" 3 times.(‚¹ÂŠ
+vsquid:S1192C"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+‰squid:S1192l"rDefine a constant instead of duplicating this literal "update users set hitcount=hitcount+1 where name='" 3 times.(©ÓÓ
+esquid:S1192v"IDefine a constant instead of duplicating this literal " out of " 5 times.(²£Ä şÿÿÿÿ
+fsquid:S1192v"JDefine a constant instead of duplicating this literal " queries." 5 times.(²£Ä şÿÿÿÿ
+jsquid:S1192v"NDefine a constant instead of duplicating this literal "Succeeded in " 5 times.(²£Ä şÿÿÿÿ
+ysquid:S1192z"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+vsquid:S1192“"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+usquid:S1192‡"XDefine a constant instead of duplicating this literal "Error closing Statament" 3 times.(ôÎ„€şÿÿÿÿ
+usquid:S1192Q"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 3 times.(Ã»àĞ
+Fsquid:S1066_"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066®"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066û"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066Ù"/Merge this if statement with the enclosing one.(Ì ¨‘
+Isquid:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¾"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199±"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+\squid:S2583"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583í"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Osquid:S2589ù"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589¬"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589®"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Osquid:S2589û"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬ßÃá
+_squid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112ê"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112·"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+isquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¼’‰Ü
+Fsquid:S2093:"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Osquid:S1197a"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197n"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(•ßçˆ
+Psquid:S1197°"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197½"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùÍŒ
+Psquid:S1197ı"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Š"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÅËßï
+Gsquid:S2093Á"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Psquid:S1197î"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197ü"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ªËáèşÿÿÿÿ
+Gsquid:S2093´"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Psquid:S1197Û"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197é"8Move the array designator from the variable to the type.(Ñ Ã
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

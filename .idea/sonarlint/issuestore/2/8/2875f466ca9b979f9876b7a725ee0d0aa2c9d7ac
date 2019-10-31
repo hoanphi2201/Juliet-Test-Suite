@@ -1,0 +1,34 @@
+
+˜squid:S1192‚"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(˜û«œúÿÿÿÿ
+|squid:S1192a"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±İÜëşÿÿÿÿ
+usquid:S1192”"XDefine a constant instead of duplicating this literal "Error closing Statement" 3 times.(‘¾¶«şÿÿÿÿ
+osquid:S1192U"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 3 times.(úÂÔÅ
+ysquid:S1192@"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+zsquid:S1192‡"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192m"YDefine a constant instead of duplicating this literal "Error closing Connection" 8 times.(äªøûÿÿÿÿ
+`squid:S1192ƒ"IDefine a constant instead of duplicating this literal "Updated " 5 times.(ğŠ™
+usquid:S1192G"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+ksquid:S1192ƒ"TDefine a constant instead of duplicating this literal " rows successfully." 5 times.(ğŠ™
+Isquid:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ª"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¬"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583¨"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S25833"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+\squid:S2583ª"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583é"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+\squid:S2583ì"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583¦"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Osquid:S2589î"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589y"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589¸"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589õ"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûËƒÿÿÿÿÿ
+_squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+isquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¼’‰Ü
+jsquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÅËßï
+osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ªËáèşÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

@@ -1,0 +1,13 @@
+
+Isquid:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199½"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141I"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141Ï"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëƒ³ 
+^squid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(¼©Ä³
+_squid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(ø†ÏÑ
+_squid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(ÈëÔ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÿÿÿÿÿ
+Osquid:S1197)"8Move the array designator from the variable to the type.(û½œë
+Psquid:S1197"8Move the array designator from the variable to the type.(û½œë
+Psquid:S1197§"8Move the array designator from the variable to the type.(û½œë

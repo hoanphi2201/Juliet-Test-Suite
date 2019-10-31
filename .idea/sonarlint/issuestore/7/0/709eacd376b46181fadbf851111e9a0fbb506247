@@ -1,0 +1,13 @@
+
+‰squid:S1192+"rDefine a constant instead of duplicating this literal "Number format exception parsing count from string" 3 times.(ÝŸŸ¡
+Lsquid:S1066Á"/Merge this if statement with the enclosing one.(›§±Öÿÿÿÿÿ
+Isquid:S1199!"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199x"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¨"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬µÖ‰úÿÿÿÿ
+^squid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112X"FDefine and throw a dedicated exception instead of using a generic one.(ùžÍŒ
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ªËáèþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÛñ¿
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àáì§øÿÿÿÿ

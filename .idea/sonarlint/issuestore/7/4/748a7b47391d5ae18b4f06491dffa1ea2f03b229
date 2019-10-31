@@ -1,0 +1,14 @@
+
+lsquid:S1192>"UDefine a constant instead of duplicating this literal "Benign, fixed string" 3 times.(³ù‰Â
+tsquid:S11929"XDefine a constant instead of duplicating this literal "Error executing command" 3 times.(¾ÆŒêùÿÿÿÿ
+bsquid:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+bsquid:S1301F"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+bsquid:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªà’s
+csquid:S00112D"FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+csquid:S00112\"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¡žÁ
+Psquid:S4719("9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Usquid:S47192"9Replace charset name argument with StandardCharsets.UTF_8(ú²­èþÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏÜñâ
+bsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¢òÙÒ

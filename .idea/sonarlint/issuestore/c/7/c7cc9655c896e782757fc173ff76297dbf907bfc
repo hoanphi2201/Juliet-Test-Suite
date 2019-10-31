@@ -1,0 +1,12 @@
+
+Zsquid:S2583s"CChange this condition so that it does not always evaluate to "true"(έ„ΟΔ
+[squid:S2583H"DChange this condition so that it does not always evaluate to "false"(΄Ι½Ό
+Zsquid:S2583."CChange this condition so that it does not always evaluate to "true"(έ„ΟΔ
+Nsquid:S2589:"7Remove this expression which always evaluates to "true"(Μ ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Θπρÿÿÿÿÿ
+^squid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(•ίη
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(ωΝ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Σ“ύ
+Osquid:S4719V"9Replace charset name argument with StandardCharsets.UTF_8(©Δ“`
+Osquid:S4719y"9Replace charset name argument with StandardCharsets.UTF_8(©Δ“`
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

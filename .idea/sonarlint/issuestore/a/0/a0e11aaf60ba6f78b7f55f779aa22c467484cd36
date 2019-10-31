@@ -1,0 +1,13 @@
+
+Ÿsquid:S1192,"ˆDefine a constant instead of duplicating this literal "Password: <input name=\"password\" type=\"password\" tabindex=\"10\" />" 3 times.(ÀŽ¯Z
+©squid:S1192+"ŒDefine a constant instead of duplicating this literal "Username: <input name=\"username\" type=\"text\" tabindex=\"10\" /><br><br>" 3 times.(ÊÑ‹ñøÿÿÿÿ
+[squid:S25834"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589("7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589H"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙŠ¤ãüÿÿÿÿ
+csquid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+csquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(Á£§åþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÜŠ³
+Jsquid:S11722".Remove this unused method parameter "request".(–ìµÏøÿÿÿÿ
+Jsquid:S1172F".Remove this unused method parameter "request".(Á£§åþÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

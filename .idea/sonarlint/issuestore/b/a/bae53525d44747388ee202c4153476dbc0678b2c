@@ -1,0 +1,31 @@
+
+esquid:S1192="IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+Fsquid:S10669"/Merge this if statement with the enclosing one.(Œ·µœ
+Fsquid:S1066V"/Merge this if statement with the enclosing one.(Œ·µœ
+Fsquid:S1066q"/Merge this if statement with the enclosing one.(Œ·µœ
+Gsquid:S1066µ"/Merge this if statement with the enclosing one.(Œ·µœ
+\squid:S2583Š"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583§"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Zsquid:S2583+"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Zsquid:S2583~"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+[squid:S2583F"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583c"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Nsquid:S2589T"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Osquid:S2589³"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S25897"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589o"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Šº«å
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(ùžÍŒ
+^squid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õƒöšþÿÿÿÿ
+Bsquid:S1905<"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Bsquid:S1905Y"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Bsquid:S1905t"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Csquid:S1905—"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Csquid:S1905º"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÿçý­þÿÿÿÿ
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ÿçý­þÿÿÿÿ
+gsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ÿçý­þÿÿÿÿ

@@ -1,0 +1,35 @@
+
+—squid:S1192="{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(ïàóŸúÿÿÿÿ
+|squid:S1192W"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±İÜëşÿÿÿÿ
+ssquid:S1192A"WDefine a constant instead of duplicating this literal ", updated successfully" 5 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192A"GDefine a constant instead of duplicating this literal "Name, " 5 times.(°ÓÄƒùÿÿÿÿ
+ysquid:S1192J"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192c"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+€squid:S1192E"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 5 times.(šÚçıÿÿÿÿ
+Isquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199û"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ò"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êğ£ƒşÿÿÿÿ
+^squid:S00112j"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112ô"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+Asquid:S5411?"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411…"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411É"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411Ÿ"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411í"*Use the primitive boolean expression here.(“±˜Ï
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ûóÌå
+Tsquid:S1197&"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+isquid:S3776j"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙÌú
+=squid:S1172j"&Remove these unused method parameters.(ÙÌú
+jsquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚØ÷“
+>squid:S1172°"&Remove these unused method parameters.(ÚØ÷“
+jsquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(õåæ˜
+Gsquid:S1172ô"/Remove this unused method parameter "response".(õåæ˜
+Usquid:S1197ü"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172Ë"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Usquid:S1197Ó"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É±“ˆşÿÿÿÿ

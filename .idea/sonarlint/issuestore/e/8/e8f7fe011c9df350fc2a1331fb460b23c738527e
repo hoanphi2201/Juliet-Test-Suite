@@ -1,0 +1,20 @@
+
+|squid:S1192:"eDefine a constant instead of duplicating this literal "Could not set Executable permissions" 3 times.(÷úâã
+|squid:S1192?"`Define a constant instead of duplicating this literal "Could not create temporary file" 3 times.(É÷Œšýÿÿÿÿ
+zsquid:S11926"cDefine a constant instead of duplicating this literal "Could not set Readable permissions" 3 times.(‚È—’
+squid:S11922"cDefine a constant instead of duplicating this literal "Could not set Writable permissions" 3 times.(…µÉßÿÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÅŸõ
+]squid:S2259j"FA "NullPointerException" could be thrown; "tempFile" is nullable here.(ýÅâÜ
+^squid:S2259‘"FA "NullPointerException" could be thrown; "tempFile" is nullable here.(ýÅâÜ
+csquid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+csquid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(Á£§åþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éûûâüÿÿÿÿ
+Bsquid:S1172E"&Remove these unused method parameters.(–ìµÏøÿÿÿÿ
+esquid:S4042l"IUse "java.nio.Files#delete" here for better messages on error conditions.(¼·ážüÿÿÿÿ
+V
+squid:S899l";Do something with the "boolean" value returned by "delete".(¼·ážüÿÿÿÿ
+Bsquid:S1172t"&Remove these unused method parameters.(Á£§åþÿÿÿÿ
+fsquid:S4042“"IUse "java.nio.Files#delete" here for better messages on error conditions.(¼·ážüÿÿÿÿ
+W
+squid:S899“";Do something with the "boolean" value returned by "delete".(¼·ážüÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«øŽ´

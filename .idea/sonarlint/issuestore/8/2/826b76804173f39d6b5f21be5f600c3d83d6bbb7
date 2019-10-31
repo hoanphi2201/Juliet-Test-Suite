@@ -1,0 +1,7 @@
+
+qsquid:S1192%"[Define a constant instead of duplicating this literal "Problem getting IP address" 3 times.(äùÛ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷¬ýôùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µýÇ‰
+;squid:S2116)"%Use "Arrays.toString(array)" instead.(« èd
+Ksquid:S11721"/Remove this unused method parameter "response".(¬µ­þùÿÿÿÿ
+;squid:S2116>"%Use "Arrays.toString(array)" instead.(« èd

@@ -1,0 +1,23 @@
+
+Isquid:S1199&"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Nsquid:S2589~"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Üºãşÿÿÿÿ
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÖŠ¤
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼’‰Ü
+]squid:S1075'"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S2093+"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(´ôÛùúÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ôÛùúÿÿÿÿ
+osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”øÿÿÿÿ
+^squid:S1075‘"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719™"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093•"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.( òä×
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Í™ë

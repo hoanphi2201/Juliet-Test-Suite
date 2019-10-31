@@ -1,0 +1,28 @@
+
+}squid:S1192/"gDefine a constant instead of duplicating this literal "/home/user/doesntexistandneverwill.txt" 3 times.(õ¸Í
+|squid:S1192S"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192G"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+vsquid:S1192*"`Define a constant instead of duplicating this literal "C:\\doesntexistandneverwill.txt" 3 times.(‹Ä
+dsquid:S1192'"HDefine a constant instead of duplicating this literal "os.name" 3 times.(äæçşÿÿÿÿ
+usquid:S1192_"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 3 times.(Ã»àĞ
+]squid:S11924"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(º§´”
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ãä€Ç
+csquid:S00112f"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+dsquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”õëüÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼’‰Ü
+Wsquid:S1075*"ARefactor your code to get this URI from a customizable parameter.(‹Ä
+Wsquid:S1075/"ARefactor your code to get this URI from a customizable parameter.(õ¸Í
+Psquid:S47194"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S20931"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+nsquid:S3776f"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğ–­Éùÿÿÿÿ
+Wsquid:S1075x"ARefactor your code to get this URI from a customizable parameter.(‹Ä
+Wsquid:S1075}"ARefactor your code to get this URI from a customizable parameter.(õ¸Í
+Qsquid:S4719ƒ"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093€"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§˜¨äşÿÿÿÿ
+Xsquid:S1075Ã"ARefactor your code to get this URI from a customizable parameter.(‹Ä
+Xsquid:S1075È"ARefactor your code to get this URI from a customizable parameter.(õ¸Í
+Qsquid:S4719Í"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093Ê"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¡›—

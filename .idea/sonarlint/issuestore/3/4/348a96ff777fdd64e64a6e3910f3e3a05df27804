@@ -1,0 +1,10 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è·µý
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(“¬´»ÿÿÿÿÿ
+^squid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(˜«æŠ
+csquid:S00112,"FDefine and throw a dedicated exception instead of using a generic one.(àÎ€†ÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÙ¨Ðùÿÿÿÿ
+nsquid:S4144""WUpdate this method so that its implementation is not identical to "badSink" on line 24.(˜«æŠ
+Tsquid:S1197"8Move the array designator from the variable to the type.(“¬´»ÿÿÿÿÿ
+Osquid:S1197""8Move the array designator from the variable to the type.(˜«æŠ
+Tsquid:S1197,"8Move the array designator from the variable to the type.(àÎ€†ÿÿÿÿÿ

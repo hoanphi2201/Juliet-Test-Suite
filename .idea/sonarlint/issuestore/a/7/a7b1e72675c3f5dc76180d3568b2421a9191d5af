@@ -1,0 +1,7 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾Ëøïûÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕŽ…ýÿÿÿÿÿ
+7squid:S2129" Remove this "String" constructor(ÑüŸ‹
+rsquid:CallToDeprecatedMethod"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éËëš
+["squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(éËëš
+]squid:CallToDeprecatedMethod#"0Remove this use of "finalize"; it is deprecated.(¯¶ú“üÿÿÿÿ

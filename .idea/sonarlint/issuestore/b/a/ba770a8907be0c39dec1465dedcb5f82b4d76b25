@@ -1,0 +1,12 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆÏÏÆøÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ö«òüÿÿÿÿ
+^squid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(“¢ß
+dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í Øº
+rsquid:S1149""VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+rsquid:S1149e"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+Bsquid:S1172"&Remove these unused method parameters.(ö«òüÿÿÿÿ
+usquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+=squid:S1172b"&Remove these unused method parameters.(“¢ß
+usquid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ

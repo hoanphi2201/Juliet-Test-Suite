@@ -1,0 +1,35 @@
+
+wsquid:S1192\"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 5 times.(Ãº°—şÿÿÿÿ
+psquid:S1192]"TDefine a constant instead of duplicating this literal "' and pass/text()='" 5 times.(¢™›ûÿÿÿÿ
+¥squid:S1192E"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 5 times.(ÚÖ‘ø
+fsquid:S1192^"ODefine a constant instead of duplicating this literal "/secret/text()" 5 times.(÷æ¢Æ
+dsquid:S1192B"HDefine a constant instead of duplicating this literal "os.name" 5 times.(äæçşÿÿÿÿ
+¢squid:S1192J"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 5 times.(¨½ªè
+Isquid:S1199/"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ù"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199œ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589¸"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å™½©úÿÿÿÿ
+^squid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+Vsquid:S1854_":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Tsquid:S11970"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+=squid:S1172e"&Remove these unused method parameters.(ÙÌú
+Wsquid:S1854–":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+>squid:S1172œ"&Remove these unused method parameters.(ÚØ÷“
+Wsquid:S1854Ë":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Gsquid:S1172Ñ"/Remove this unused method parameter "response".(õåæ˜
+Wsquid:S1854":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Usquid:S1197Ú"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Lsquid:S1172•"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Wsquid:S1854Ê":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Gsquid:S1481_"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481–"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ë"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ê"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

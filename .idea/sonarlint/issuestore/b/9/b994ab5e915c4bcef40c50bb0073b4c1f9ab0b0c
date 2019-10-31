@@ -1,0 +1,49 @@
+
+hsquid:S1192C"LDefine a constant instead of duplicating this literal "badSink.txt" 3 times.(Ş“™Êúÿÿÿÿ
+ysquid:S1192^"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 6 times.(Ã¥Œ¹ùÿÿÿÿ
+isquid:S1192}"MDefine a constant instead of duplicating this literal "goodSink.txt" 3 times.(Ãûòˆùÿÿÿÿ
+xsquid:S1192i"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 6 times.(í†Ñ’
+]squid:S1192M"FDefine a constant instead of duplicating this literal "Hello" 6 times.(±½ã
+{squid:S1192t"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 6 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192E"FDefine a constant instead of duplicating this literal "UTF-8" 6 times.(¨ªª›úÿÿÿÿ
+‰squid:S11924"rDefine a constant instead of duplicating this literal "Number format exception parsing count from string" 3 times.(İŸŸ¡
+vsquid:S1192Q"ZDefine a constant instead of duplicating this literal "Error with stream writing" 6 times.(ë‰ÜŸıÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ä"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Tsquid:S2589­"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589Ü"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589È"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589ò"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589Ó"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Nsquid:S2589b"7Remove this expression which always evaluates to "true"(ò›àá
+Osquid:S2589ç"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589m"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589›"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589•"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589¦"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589¡"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589½"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589ƒ"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589™"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Ssquid:S2589W"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+esquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÜÒ÷
+_squid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112¼"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+isquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(¼’‰Ü
+Usquid:S4719E"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Usquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+jsquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ò¸ˆÓ
+xsquid:S3923¹"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+xsquid:S3923Æ"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Vsquid:S4719Ê"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(”øÿÿÿÿ
+xsquid:S3923¿"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+xsquid:S3923ë"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Vsquid:S4719ò"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Vsquid:S4719¬"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

@@ -1,0 +1,19 @@
+
+jsquid:S1192'"SDefine a constant instead of duplicating this literal "<br>bad(): data = " 3 times.(›ç¢ê
+bsquid:S1192'"KDefine a constant instead of duplicating this literal "(<script>)" 3 times.(›ç¢ê
+Isquid:S11994"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äè¾ƒùÿÿÿÿ
+csquid:S00112,"FDefine and throw a dedicated exception instead of using a generic one.(»»» úÿÿÿÿ
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+csquid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(Ø åüÿÿÿÿ
+^squid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(ÕôÊÕ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿúÉÜúÿÿÿÿ
+xsquid:S00116L"[Rename this field "goodG2B1_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡ø¼üÿÿÿÿ
+xsquid:S00116M"[Rename this field "goodG2B2_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”°Öèûÿÿÿÿ
+ksquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»» úÿÿÿÿ
+Ksquid:S1172,"/Remove this unused method parameter "response".(»»» úÿÿÿÿ
+ksquid:S00100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø åüÿÿÿÿ
+Bsquid:S1172e"&Remove these unused method parameters.(Ø åüÿÿÿÿ
+gsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕôÊÕ
+>squid:S1172Š"&Remove these unused method parameters.(ÕôÊÕ

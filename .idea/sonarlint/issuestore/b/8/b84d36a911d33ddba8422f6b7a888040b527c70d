@@ -1,0 +1,6 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªĞ°¶ıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(êÕÜÂ
+Osquid:S1197""8Move the array designator from the variable to the type.(ïáº–
+Osquid:S11970"8Move the array designator from the variable to the type.(Ñ Ã

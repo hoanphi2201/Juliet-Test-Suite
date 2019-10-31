@@ -1,0 +1,7 @@
+
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä·¡A
+^squid:S00112X"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ó“ı
+Fsquid:S2093)"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Osquid:S4719a"9Replace charset name argument with StandardCharsets.UTF_8(©Ä“`
+Fsquid:S2093r"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

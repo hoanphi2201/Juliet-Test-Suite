@@ -1,0 +1,42 @@
+
+|squid:S1192["`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±İÜëşÿÿÿÿ
+Šsquid:S1192‚"rDefine a constant instead of duplicating this literal "update users set hitcount=hitcount+1 where name='" 3 times.(©ÓÓ
+osquid:S1192O"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 3 times.(úÂÔÅ
+ysquid:S1192:"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+fsquid:S1192Œ"IDefine a constant instead of duplicating this literal " out of " 5 times.(²£Ä şÿÿÿÿ
+gsquid:S1192Œ"JDefine a constant instead of duplicating this literal " queries." 5 times.(²£Ä şÿÿÿÿ
+ksquid:S1192Œ"NDefine a constant instead of duplicating this literal "Succeeded in " 5 times.(²£Ä şÿÿÿÿ
+zsquid:S1192"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192g"YDefine a constant instead of duplicating this literal "Error closing Connection" 8 times.(äªøûÿÿÿÿ
+usquid:S1192A"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+usquid:S1192"XDefine a constant instead of duplicating this literal "Error closing Statament" 3 times.(ôÎ„€şÿÿÿÿ
+Fsquid:S1066u"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066Ä"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066‘"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066§"/Merge this if statement with the enclosing one.(Ì ¨‘
+Isquid:S11991"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589‘"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÑå
+_squid:S00112±"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+isquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¼’‰Ü
+Osquid:S1197w"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197„"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(•ßçˆ
+Psquid:S1197Æ"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Ó"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùÍŒ
+Psquid:S1197“"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197 "8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÅËßï
+Psquid:S1197 "8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197®"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ªËáèşÿÿÿÿ
+Psquid:S1197©"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197·"8Move the array designator from the variable to the type.(Ñ Ã
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ£Ì_

@@ -1,0 +1,27 @@
+
+Œsquid:S11926"uDefine a constant instead of duplicating this literal "Number format exception reading id from query string" 3 times.(ÌÛÓ€
+esquid:S1192H"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+Isquid:S1199)"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199†"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷´•ôþÿÿÿÿ
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112¹"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õƒöšþÿÿÿÿ
+=squid:S1905G"&Remove this unnecessary cast to "int".(É‘¯ô
+=squid:S1172M"&Remove these unused method parameters.(ÙÌú
+=squid:S1905a"&Remove this unnecessary cast to "int".(É‘¯ô
+=squid:S1172g"&Remove these unused method parameters.(ÚØ÷“
+=squid:S1905y"&Remove this unnecessary cast to "int".(É‘¯ô
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õåæ˜
+Fsquid:S1172"/Remove this unused method parameter "response".(õåæ˜
+>squid:S1905­"&Remove this unnecessary cast to "int".(É‘¯ô
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172¹"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+>squid:S1905á"&Remove this unnecessary cast to "int".(É‘¯ô
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÓÔÑ
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ

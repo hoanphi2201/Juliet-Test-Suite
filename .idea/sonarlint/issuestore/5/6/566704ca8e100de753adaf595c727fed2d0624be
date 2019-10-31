@@ -1,0 +1,24 @@
+
+esquid:S11927"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+[squid:S2583?"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583—"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583q"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583}"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583'"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583Y"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S2589M"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589e"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S25893"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589£"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éıñÿÿÿÿÿ
+^squid:S00112<"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+^squid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äªğÊ
+Csquid:S19056"'Remove this unnecessary cast to "long".(‡¡˜çùÿÿÿÿ
+Csquid:S1905P"'Remove this unnecessary cast to "long".(‡¡˜çùÿÿÿÿ
+Csquid:S1905h"'Remove this unnecessary cast to "long".(‡¡˜çùÿÿÿÿ
+Dsquid:S1905ˆ"'Remove this unnecessary cast to "long".(‡¡˜çùÿÿÿÿ
+Dsquid:S1905¨"'Remove this unnecessary cast to "long".(‡¡˜çùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

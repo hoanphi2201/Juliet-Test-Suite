@@ -1,0 +1,29 @@
+
+ysquid:S1192C"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 3 times.(Ã¥Œ¹ùÿÿÿÿ
+xsquid:S1192O"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+]squid:S11921"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±½ã
+{squid:S1192["_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192("FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¨ªª›úÿÿÿÿ
+vsquid:S11925"ZDefine a constant instead of duplicating this literal "Error with stream writing" 3 times.(ë‰ÜŸıÿÿÿÿ
+‹squid:S1319""tThe type of the "countHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ı¬ß×
+‹squid:S1319a"tThe type of the "countHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ÈŒÀ·
+‘squid:S1319 "tThe type of the "countHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(şè†úüÿÿÿÿ
+Osquid:S2589‡"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589Ğ"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589º"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589“"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589Å"7Remove this expression which always evaluates to "true"(ò›àá
+Nsquid:S2589H"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589<"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Ssquid:S2589T"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Ssquid:S2589{"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+esquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ…é£
+^squid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(ı¬ß×
+^squid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(ÈŒÀ·
+dsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(şè†úüÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+nsquid:S4144a"WUpdate this method so that its implementation is not identical to "badSink" on line 34.(ÈŒÀ·
+Usquid:S4719("9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Usquid:S4719g"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(şè†úüÿÿÿÿ
+Vsquid:S4719©"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ

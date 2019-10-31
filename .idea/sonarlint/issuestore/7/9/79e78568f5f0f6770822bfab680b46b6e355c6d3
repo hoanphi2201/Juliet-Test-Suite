@@ -1,0 +1,10 @@
+
+Isquid:S1199m"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S11414"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°µ“ú
+^squid:S00112u"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÉÖƒ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼’‰Ü
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Í™ë

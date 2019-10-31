@@ -1,0 +1,44 @@
+
+âsquid:S1192<"rDefine a constant instead of duplicating this literal "update users set hitcount=hitcount+1 where name='" 3 times.(©Å””
+esquid:S1192F"IDefine a constant instead of duplicating this literal " out of " 5 times.(≤£ƒ†˛ˇˇˇˇ
+fsquid:S1192F"JDefine a constant instead of duplicating this literal " queries." 5 times.(≤£ƒ†˛ˇˇˇˇ
+jsquid:S1192F"NDefine a constant instead of duplicating this literal "Succeeded in " 5 times.(≤£ƒ†˛ˇˇˇˇ
+ysquid:S1192J"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(˘˜Íµ
+usquid:S1192c"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(Å‰™¯˚ˇˇˇˇ
+tsquid:S1192W"XDefine a constant instead of duplicating this literal "Error closing Statament" 3 times.(ÙŒÑÄ˛ˇˇˇˇ
+Fsquid:S1066/"/Merge this if statement with the enclosing one.(Ã†®ë
+Fsquid:S1066~"/Merge this if statement with the enclosing one.(Ã†®ë
+Gsquid:S1066À"/Merge this if statement with the enclosing one.(Ã†®ë
+Gsquid:S1066Ô"/Merge this if statement with the enclosing one.(Ã†®ë
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óûË‘
+^squid:S00112k"FDefine and throw a dedicated exception instead of using a generic one.(ïﬂÁà
+_squid:S00112∫"FDefine and throw a dedicated exception instead of using a generic one.(˘ûÕå
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(≈ÀﬂÔ
+dsquid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(™À·Ë˛ˇˇˇˇ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÉ¢å
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ºíâ‹
+bsquid:S1764 "KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+bsquid:S1764-"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+Osquid:S11971"8Move the array designator from the variable to the type.(Ô·∫ñ
+Osquid:S1197>"8Move the array designator from the variable to the type.(—†ù√
+isquid:S3776k"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ïﬂÁà
+gsquid:S1764n"KCorrect one of the identical sub-expressions on both sides of operator "!="(Ú†Ù‘˝ˇˇˇˇ
+bsquid:S1764|"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+Psquid:S1197Ä"8Move the array designator from the variable to the type.(Ô·∫ñ
+Psquid:S1197ç"8Move the array designator from the variable to the type.(—†ù√
+jsquid:S3776∫"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(˘ûÕå
+csquid:S1764Ω"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+csquid:S1764…"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+Psquid:S1197Õ"8Move the array designator from the variable to the type.(Ô·∫ñ
+Psquid:S1197⁄"8Move the array designator from the variable to the type.(—†ù√
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(≈ÀﬂÔ
+csquid:S1764ä"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+hsquid:S1764ó"KCorrect one of the identical sub-expressions on both sides of operator "!="(Ú†Ù‘˝ˇˇˇˇ
+Psquid:S1197°"8Move the array designator from the variable to the type.(Ô·∫ñ
+Psquid:S1197Ø"8Move the array designator from the variable to the type.(—†ù√
+osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(™À·Ë˛ˇˇˇˇ
+csquid:S1764‡"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+csquid:S1764Ì"KCorrect one of the identical sub-expressions on both sides of operator "=="(¥√—¿
+Psquid:S1197Ò"8Move the array designator from the variable to the type.(Ô·∫ñ
+Psquid:S1197ˇ"8Move the array designator from the variable to the type.(—†ù√
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õÆÎø

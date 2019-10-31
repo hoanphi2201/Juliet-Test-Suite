@@ -1,0 +1,38 @@
+
+squid:S1192t"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 5 times.( ğ¨Œ
+vsquid:S11928"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192R"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192F"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192/"QDefine a constant instead of duplicating this literal "host.example.org" 3 times.(™¿À
+lsquid:S1192_"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+hsquid:S1192z"LDefine a constant instead of duplicating this literal "hello world" 5 times.(ú¥‡öøÿÿÿÿ
+bsquid:S11921"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199»"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾¹‘õ
+_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112Ê"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112´"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+isquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼’‰Ü
+bsquid:S1764$"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Usquid:S47191"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S2093,"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:S1764k"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+hsquid:S1764ƒ"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+csquid:S1764‘"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+csquid:S1764©"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+csquid:S1764µ"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÅËßï
+csquid:S1764Í"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Vsquid:S4719Ú"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Õ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+hsquid:S1764”"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+osquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ªËáèşÿÿÿÿ
+csquid:S1764·"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Vsquid:S4719Ä"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093¿"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+csquid:S1764ş"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

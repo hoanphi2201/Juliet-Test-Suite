@@ -1,0 +1,19 @@
+
+ssquid:S11929"WDefine a constant instead of duplicating this literal ", updated successfully" 3 times.(°ÓÄƒùÿÿÿÿ
+csquid:S11929"GDefine a constant instead of duplicating this literal "Name, " 3 times.(°ÓÄƒùÿÿÿÿ
+ysquid:S1192B"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192["YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+€squid:S1192="dDefine a constant instead of duplicating this literal "Unable to update records for user: " 3 times.(šÚçıÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿¶şÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æ™ª‘
+^squid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(£»”§
+csquid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+dsquid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(â“¾Œøÿÿÿÿ
+_squid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+Asquid:S54117"*Use the primitive boolean expression here.(“±˜Ï
+Asquid:S5411{"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411À"*Use the primitive boolean expression here.(“±˜Ï
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+Fsquid:S1172"/Remove this unused method parameter "response".(æ™ª‘
+=squid:S1172b"&Remove these unused method parameters.(£»”§
+Lsquid:S1172¦"/Remove this unused method parameter "response".(â“¾Œøÿÿÿÿ

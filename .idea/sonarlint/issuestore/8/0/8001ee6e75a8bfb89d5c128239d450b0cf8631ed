@@ -1,0 +1,102 @@
+
+usquid:S1192—"XDefine a constant instead of duplicating this literal " Throwable's message = " 9 times.(°¡úÿÿÿÿ
+osquid:S1192™"RDefine a constant instead of duplicating this literal "Stack trace below" 9 times.(…ûÏùùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¾ˆ°ÿÿÿÿÿ
+Bsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106™"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197›"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(éæâí
+=squid:S1172£"&Remove these unused method parameters.(Õåºb
+Bsquid:S1181¨"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197µ"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(éæâí
+Csquid:S1172½"&Remove these unused method parameters.(œ–ÌŠüÿÿÿÿ
+Bsquid:S1181Â"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197Ï"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(éæâí
+>squid:S1172×"&Remove these unused method parameters.(ïãöÈ
+Bsquid:S1181Ü"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106â"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197é"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(éæâí
+>squid:S1172ñ"&Remove these unused method parameters.(ğŸ™ç
+Bsquid:S1181ö"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(éæâí
+Csquid:S1172Œ"&Remove these unused method parameters.(¯Û“ôùÿÿÿÿ
+Bsquid:S1181‘"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(éæâí
+Csquid:S1172¦"&Remove these unused method parameters.(–’ûİúÿÿÿÿ
+Bsquid:S1181«"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197¸"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(éæâí
+>squid:S1172À"&Remove these unused method parameters.(êèÅ
+Bsquid:S1181Å"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197Ò"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(éæâí
+>squid:S1172Ú"&Remove these unused method parameters.(¾ø·Ê
+Bsquid:S1181ß"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+U
+squid:S106è"9Replace this use of System.out or System.err by a logger.(°¡úÿÿÿÿ
+U
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(…ûÏùùÿÿÿÿ
+Usquid:S1197ì"8Move the array designator from the variable to the type.(ƒèÀÙıÿÿÿÿ
+P
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(éæâí

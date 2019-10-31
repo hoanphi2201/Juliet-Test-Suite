@@ -1,0 +1,28 @@
+
+|squid:S1192Z"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 3 times.(±İÜëşÿÿÿÿ
+osquid:S1192N"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 3 times.(úÂÔÅ
+ysquid:S11929"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+usquid:S1192f"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+usquid:S1192@"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+Fsquid:S1066t"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066‘"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066¬"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066İ"/Merge this if statement with the enclosing one.(Ì ¨‘
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199½"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199™"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589¬"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÎ”°øÿÿÿÿ
+^squid:S00112~"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤şËüÿÿÿÿ
+isquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ûóÌå
+Esquid:S1172~".Remove this unused method parameter "request".(ÙÌú
+Fsquid:S1172›".Remove this unused method parameter "request".(ÚØ÷“
+jsquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õåæ˜
+Fsquid:S1172¶".Remove this unused method parameter "request".(õåæ˜
+osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Ksquid:S1172’".Remove this unused method parameter "request".(§¬×Ôùÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ£Ì_

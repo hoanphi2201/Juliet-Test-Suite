@@ -1,0 +1,24 @@
+
+|squid:S1192T"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±İÜëşÿÿÿÿ
+usquid:S1192”"XDefine a constant instead of duplicating this literal "Error closing Statement" 3 times.(‘¾¶«şÿÿÿÿ
+osquid:S1192H"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 8 times.(úÂÔÅ
+ysquid:S11923"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+}squid:S1192v"aDefine a constant instead of duplicating this literal "select * from users where name='" 3 times.(›ĞÀÑüÿÿÿÿ
+ysquid:S1192{"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192`"YDefine a constant instead of duplicating this literal "Error closing Connection" 8 times.(äªøûÿÿÿÿ
+usquid:S1192:"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ä"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æÆ™‰üÿÿÿÿ
+_squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112ó"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112½"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Ì"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+isquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¼’‰Ü
+jsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•ßçˆ
+jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ùÍŒ
+jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÅËßï
+osquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ªËáèşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï¢ìùÿÿÿÿ

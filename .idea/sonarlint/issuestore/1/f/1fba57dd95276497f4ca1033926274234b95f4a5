@@ -1,0 +1,15 @@
+
+bsquid:S1192:"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(–ùÊşÿÿÿÿ
+Nsquid:S2589V"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Nsquid:S2589`"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…Ç“ëùÿÿÿÿ
+csquid:S00112D"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤şËüÿÿÿÿ
+Jsquid:S1172D".Remove this unused method parameter "request".(ÛúÊ„üÿÿÿÿ
+wsquid:S3923G"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923T"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Esquid:S1172l".Remove this unused method parameter "request".(‰øı“
+wsquid:S3923o"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923~"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

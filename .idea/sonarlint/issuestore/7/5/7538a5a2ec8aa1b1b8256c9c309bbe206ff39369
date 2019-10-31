@@ -1,0 +1,34 @@
+
+ysquid:S1192_"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 3 times.(Ã¥Œ¹ùÿÿÿÿ
+xsquid:S1192k"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+]squid:S1192M"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±½ã
+{squid:S1192w"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192D"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¨ªª›úÿÿÿÿ
+vsquid:S1192Q"ZDefine a constant instead of duplicating this literal "Error with stream writing" 3 times.(ë‰ÜŸıÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Í"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Ssquid:S2589X"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589‘"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589¹"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589­"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589û"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589†"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589p"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589¡"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Nsquid:S2589d"7Remove this expression which always evaluates to "true"(ò›àá
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÇíåûÿÿÿÿ
+^squid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(ÈæÆ
+^squid:S00112}"FDefine and throw a dedicated exception instead of using a generic one.(®êàü
+dsquid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Ë›ÿ 
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+Fsquid:S1172#"/Remove this unused method parameter "response".(ÈæÆ
+Tsquid:S1197+"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Usquid:S4719D"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+=squid:S1172}"&Remove these unused method parameters.(®êàü
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Gsquid:S1172Æ"/Remove this unused method parameter "response".(Ë›ÿ 
+Usquid:S1197Î"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰øı“
+Vsquid:S4719ê"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ

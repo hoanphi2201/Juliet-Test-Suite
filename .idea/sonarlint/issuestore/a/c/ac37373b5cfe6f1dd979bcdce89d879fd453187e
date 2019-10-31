@@ -1,0 +1,34 @@
+
+squid:S1192/"qDefine a constant instead of duplicating this literal "Number format exception parsing data from string" 3 times.(­ôÆèûÿÿÿÿ
+lsquid:S1192G"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+esquid:S1192B"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+Isquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ö"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301;"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301Q"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+bsquid:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+gsquid:S1301t"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301—"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301³"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301Ğ"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301ì"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åğÆ­üÿÿÿÿ
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Ì"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘öÜÜıÿÿÿÿ
+Bsquid:S1905A"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Bsquid:S1905d"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Csquid:S1905‡"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Csquid:S1905¿"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Csquid:S1905ô"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±şÿÿÿÿ
+asquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(íÎ¹/
+bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(¢úï
+asquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(íÎ¹/
+bsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(íÎ¹/
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(²ÅÓ“

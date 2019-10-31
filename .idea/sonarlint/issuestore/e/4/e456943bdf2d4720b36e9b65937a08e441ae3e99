@@ -1,0 +1,24 @@
+
+esquid:S11928"IDefine a constant instead of duplicating this literal " out of " 4 times.(²£Ä þÿÿÿÿ
+fsquid:S11928"JDefine a constant instead of duplicating this literal " queries." 4 times.(²£Ä þÿÿÿÿ
+jsquid:S11928"NDefine a constant instead of duplicating this literal "Succeeded in " 4 times.(²£Ä þÿÿÿÿ
+ysquid:S1192<"bDefine a constant instead of duplicating this literal "Error getting database connection" 4 times.(ù÷êµ
+usquid:S1192U"YDefine a constant instead of duplicating this literal "Error closing Connection" 4 times.(äªøûÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÅµê
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(äçÇ°þÿÿÿÿ
+^squid:S00112c"FDefine and throw a dedicated exception instead of using a generic one.(èó¸Î
+dsquid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(¨Ïãóÿÿÿÿÿ
+dsquid:S00112ó"FDefine and throw a dedicated exception instead of using a generic one.(— Œœùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(äçÇ°þÿÿÿÿ
+Osquid:S1197#"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S11970"8Move the array designator from the variable to the type.(Ñ Ã
+isquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(èó¸Î
+Osquid:S1197p"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197~"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¨Ïãóÿÿÿÿÿ
+Psquid:S1197²"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197À"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(— Œœùÿÿÿÿ
+Psquid:S1197ù"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197†"8Move the array designator from the variable to the type.(Ñ Ã

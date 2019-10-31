@@ -1,0 +1,11 @@
+
+psquid:S1192"TDefine a constant instead of duplicating this literal "2010-07-13 10:41:00" 3 times.(œ€§«úÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ðš¥À
+csquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+csquid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý†Î¦ÿÿÿÿÿ
+bsquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Zsquid:CallToDeprecatedMethod"-Remove this use of "parse"; it is deprecated.(œ€§«úÿÿÿÿ
+gsquid:S1764#"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔýÿÿÿÿ
+bsquid:S17646"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

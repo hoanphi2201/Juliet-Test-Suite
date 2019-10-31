@@ -1,0 +1,24 @@
+
+ysquid:S1192E"bDefine a constant instead of duplicating this literal "Error getting database connection" 4 times.(ù÷êµ
+usquid:S1192^"YDefine a constant instead of duplicating this literal "Error closing Connection" 4 times.(äªøûÿÿÿÿ
+_squid:S1192A"IDefine a constant instead of duplicating this literal "Updated " 4 times.(ğŠ™
+jsquid:S1192A"TDefine a constant instead of duplicating this literal " rows successfully." 4 times.(ğŠ™
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199x"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ç"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øçğ»
+csquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(ö«òüÿÿÿÿ
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(Í“Æœûÿÿÿÿ
+dsquid:S00112À"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+dsquid:S00112Ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò éûúÿÿÿÿ
+dsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(“¢ß
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+Tsquid:S1197)"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Bsquid:S11725"&Remove these unused method parameters.(ö«òüÿÿÿÿ
+Tsquid:S1197y"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Csquid:S1172…"&Remove these unused method parameters.(Í“Æœûÿÿÿÿ
+Usquid:S1197È"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Csquid:S1172Ô"&Remove these unused method parameters.(Ò éûúÿÿÿÿ
+>squid:S1172"&Remove these unused method parameters.(“¢ß

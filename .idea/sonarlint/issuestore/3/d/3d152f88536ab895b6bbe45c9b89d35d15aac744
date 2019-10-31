@@ -1,0 +1,24 @@
+
+esquid:S1192:"IDefine a constant instead of duplicating this literal "result: " 5 times.(≠¿•π˘ˇˇˇˇ
+\squid:S2583Ç"DChange this condition so that it does not always evaluate to "false"(¥…Ωº
+Zsquid:S2583v"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Zsquid:S2583)"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Zsquid:S2583]"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+[squid:S2583B"DChange this condition so that it does not always evaluate to "false"(¥…Ωº
+[squid:S2583ù"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Nsquid:S25895"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Nsquid:S2589i"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Osquid:S2589©"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Nsquid:S2589P"7Remove this expression which always evaluates to "true"(›Ñœƒ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßû†
+^squid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(ïﬂÁà
+^squid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(˘ûÕå
+^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(≈ÀﬂÔ
+dsquid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(™À·Ë˛ˇˇˇˇ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“äŒÇ
+=squid:S19059"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905T"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905m"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905é"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905Ø"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í•ßª

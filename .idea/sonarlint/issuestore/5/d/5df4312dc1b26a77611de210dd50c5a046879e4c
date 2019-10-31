@@ -1,0 +1,52 @@
+
+vsquid:S1192Q"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+zsquid:S1192¬"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 4 times.(Ã¥Œ¹ùÿÿÿÿ
+|squid:S1192k"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192„"[Define a constant instead of duplicating this literal "Error closing ServerSocket" 3 times.(§¦ğ°
+ssquid:S1192_"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+ysquid:S1192·"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 4 times.(í†Ñ’
+lsquid:S1192x"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+^squid:S1192›"FDefine a constant instead of duplicating this literal "Hello" 4 times.(±½ã
+|squid:S1192Â"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 4 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192>"FDefine a constant instead of duplicating this literal "UTF-8" 7 times.(Éª¢üÿÿÿÿ
+‰squid:S1192K"rDefine a constant instead of duplicating this literal "Number format exception parsing count from string" 3 times.(İŸŸ¡
+wsquid:S1192Ÿ"ZDefine a constant instead of duplicating this literal "Error with stream writing" 4 times.(ë‰ÜŸıÿÿÿÿ
+Lsquid:S1066ä"/Merge this if statement with the enclosing one.(¬šúÿÿÿÿÿ
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199‚"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141E"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141ï"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141—"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Tsquid:S2589×"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589¥"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589„"7Remove this expression which always evaluates to "true"(ò›àá
+Osquid:S2589°"7Remove this expression which always evaluates to "true"(ò›àá
+Osquid:S2589â"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589í"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589À"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589ù"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589Ö"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589Ë"7Remove this expression which always evaluates to "true"(ò›àá
+Tsquid:S2589»"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+esquid:S00101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÔÎê
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘¤û÷
+_squid:S00112·"FDefine and throw a dedicated exception instead of using a generic one.(Ïá¸
+_squid:S00112ß"FDefine and throw a dedicated exception instead of using a generic one.(Ö˜÷Í
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(æ®ÆÔÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÛñ¿
+Usquid:S4719>"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20937"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‘¤û÷
+Vsquid:S4719“"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Vsquid:S4719è"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093á"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ïá¸
+Vsquid:S4719Æ"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093‰"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+jsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ö˜÷Í
+Vsquid:S4719è"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(æ®ÆÔÿÿÿÿÿ
+Vsquid:S4719®"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ

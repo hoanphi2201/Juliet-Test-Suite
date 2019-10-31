@@ -1,0 +1,11 @@
+
+esquid:S1192"IDefine a constant instead of duplicating this literal "result: " 3 times.(­À¥¹ùÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇŒá
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.( Ëéïüÿÿÿÿ
+^squid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(ç±ùĞ
+csquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(¾úç‡üÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘öÜÜıÿÿÿÿ
+nsquid:S4144$"WUpdate this method so that its implementation is not identical to "badSink" on line 24.(ç±ùĞ
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( Ëéïüÿÿÿÿ
+|squid:S1149$"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ç±ùĞ
+squid:S11490"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¾úç‡üÿÿÿÿ

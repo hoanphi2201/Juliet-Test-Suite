@@ -1,0 +1,42 @@
+
+ˆsquid:S1192<"qDefine a constant instead of duplicating this literal "Number format exception reading data from cookie" 3 times.(åÂ×÷
+esquid:S1192N"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+Ksquid:S1066J"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Ksquid:S1066g"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Lsquid:S1066‚"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Lsquid:S1066æ"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199“"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583È"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583W"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583,"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+\squid:S2583«"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583t"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Osquid:S2589ä"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589e"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589€"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589H"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°“Ö´
+^squid:S00112T"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şîœ
+Tsquid:S11971"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Bsquid:S1905M"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+=squid:S1172T"&Remove these unused method parameters.(ÙÌú
+Bsquid:S1905j"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+=squid:S1172q"&Remove these unused method parameters.(ÚØ÷“
+Csquid:S1905…"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Gsquid:S1172Œ"/Remove this unused method parameter "response".(õåæ˜
+Usquid:S1197”"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Csquid:S1905¸"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Lsquid:S1172Å"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Usquid:S1197Í"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Csquid:S1905ë"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»
+asquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(íÎ¹/
+asquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(íÎ¹/
+bsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(íÎ¹/

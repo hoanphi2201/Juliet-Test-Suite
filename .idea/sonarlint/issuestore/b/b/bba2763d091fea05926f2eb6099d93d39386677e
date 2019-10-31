@@ -1,0 +1,31 @@
+
+vsquid:S1192?"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+}squid:S1192†"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 4 times.(±İÜëşÿÿÿÿ
+nsquid:S1192/"XDefine a constant instead of duplicating this literal "http://www.example.org/" 3 times.(Ãÿ«|
+|squid:S1192Y"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192p"WDefine a constant instead of duplicating this literal ", updated successfully" 4 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192p"GDefine a constant instead of duplicating this literal "Name, " 4 times.(°ÓÄƒùÿÿÿÿ
+ssquid:S1192M"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+ysquid:S1192y"bDefine a constant instead of duplicating this literal "Error getting database connection" 4 times.(ù÷êµ
+vsquid:S1192’"YDefine a constant instead of duplicating this literal "Error closing Connection" 4 times.(äªøûÿÿÿÿ
+€squid:S1192t"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 4 times.(šÚçıÿÿÿÿ
+]squid:S11925"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ÎÍø•
+Isquid:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¬"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199©"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹”±‘ùÿÿÿÿ
+csquid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(ñ™–Üÿÿÿÿÿ
+dsquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(Ú¥–ııÿÿÿÿ
+^squid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(ë”Å	
+_squid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(¾‰¨‡
+Asquid:S5411n"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411ö"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411ê"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411¬"*Use the primitive boolean expression here.(“±˜Ï
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Ìå‚úÿÿÿÿ
+Psquid:S47195"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Fsquid:S20933"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Gsquid:S2093±"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719°"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Gsquid:S2093®"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

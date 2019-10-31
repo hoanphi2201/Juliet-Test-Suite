@@ -1,0 +1,19 @@
+
+Isquid:S11992"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Zsquid:S2583."CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583S"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583j"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ÍÍªşÿÿÿÿ
+^squid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚™«Óıÿÿÿÿ
+\squid:S1854K"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+Tsquid:S11973"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+=squid:S1172P"&Remove these unused method parameters.(ÙÌú
+\squid:S1854b"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+=squid:S1172g"&Remove these unused method parameters.(ÚØ÷“
+\squid:S1854w"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+Msquid:S1481K"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Msquid:S1481b"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Msquid:S1481w"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

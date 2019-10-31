@@ -1,0 +1,13 @@
+
+tsquid:S1192."]Define a constant instead of duplicating this literal "preventing incidental issues" 3 times.(ÛÍÌ¸
+[squid:S2583?"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589&"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589["7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ•é¤
+csquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+csquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÿøÔ
+Qsquid:S11434"5Remove this return statement from this finally block.(›íÕšùÿÿÿÿ
+7squid:S36264"Remove this redundant jump.(›íÕšùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(Åå°‹üÿÿÿÿ

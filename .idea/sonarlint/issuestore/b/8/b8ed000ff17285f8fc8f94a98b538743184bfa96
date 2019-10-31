@@ -1,0 +1,18 @@
+
+esquid:S1192""IDefine a constant instead of duplicating this literal "result: " 3 times.(­À¥¹ùÿÿÿÿ
+squid:S1319"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(ÆÁ£b
+‘squid:S1319("zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(óá±•
+‘squid:S13196"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(«Ê™æ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üËàüÿÿÿÿ
+]squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÆÁ£b
+^squid:S00112("FDefine and throw a dedicated exception instead of using a generic one.(óá±•
+^squid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(«Ê™æ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓµ·
+<squid:S1172"&Remove these unused method parameters.(ÆÁ£b
+Bsquid:S1905!"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+=squid:S1172("&Remove these unused method parameters.(óá±•
+Bsquid:S1905/"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+=squid:S11726"&Remove these unused method parameters.(«Ê™æ
+Bsquid:S1905?"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÿçı­şÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ÿçı­şÿÿÿÿ

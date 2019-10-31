@@ -1,0 +1,17 @@
+
+qsquid:S1192:"UDefine a constant instead of duplicating this literal "AES/CBC/PKCS5Padding" 3 times.(ø¾¢çıÿÿÿÿ
+bsquid:S11920"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Œ×¬ğÿÿÿÿÿ
+[squid:S2583D"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589f"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589."7Remove this expression which always evaluates to "true"(İ„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ †
+csquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+csquid:S00112d"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÑÍÆ
+Usquid:S47190"9Replace charset name argument with StandardCharsets.UTF_8(Œ×¬ğÿÿÿÿÿ
+Lsquid:S4432:"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ø¾¢çıÿÿÿÿ
+Usquid:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(Œ×¬ğÿÿÿÿÿ
+Lsquid:S4432R"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ø¾¢çıÿÿÿÿ
+Usquid:S4719h"9Replace charset name argument with StandardCharsets.UTF_8(Œ×¬ğÿÿÿÿÿ
+Lsquid:S4432l"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ø¾¢çıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

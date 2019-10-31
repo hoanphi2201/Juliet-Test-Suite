@@ -1,0 +1,8 @@
+
+csquid:S1192 "GDefine a constant instead of duplicating this literal "DESede" 3 times.(ä½©×ÿÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ°œÈýÿÿÿÿ
+csquid:S001129"FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù½åÃúÿÿÿÿ
+[squid:S2278+"?Use the recommended AES (Advanced Encryption Standard) instead.(ôýˆŠþÿÿÿÿ
+Usquid:S4719."9Replace charset name argument with StandardCharsets.UTF_8(ã£µ©üÿÿÿÿ
+Psquid:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(ÊÕ”–

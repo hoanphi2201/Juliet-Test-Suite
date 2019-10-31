@@ -1,0 +1,36 @@
+
+xsquid:S1192£"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 4 times.(Ãº°—şÿÿÿÿ
+vsquid:S1192H"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+qsquid:S1192¤"TDefine a constant instead of duplicating this literal "' and pass/text()='" 4 times.(¢™›ûÿÿÿÿ
+|squid:S1192b"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+¦squid:S1192Œ"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 4 times.(ÚÖ‘ø
+rsquid:S1192{"[Define a constant instead of duplicating this literal "Error closing ServerSocket" 3 times.(§¦ğ°
+ssquid:S1192V"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192¥"ODefine a constant instead of duplicating this literal "/secret/text()" 4 times.(÷æ¢Æ
+lsquid:S1192o"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+esquid:S1192‰"HDefine a constant instead of duplicating this literal "os.name" 4 times.(äæçşÿÿÿÿ
+£squid:S1192‘"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 4 times.(¨½ªè
+bsquid:S1192@"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Isquid:S11992"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Æ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÑ¨Éüÿÿÿÿ
+dsquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(ñ™–Üÿÿÿÿÿ
+dsquid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(Ú¥–ııÿÿÿÿ
+^squid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(ë”Å	
+_squid:S00112É"FDefine and throw a dedicated exception instead of using a generic one.(¾‰¨‡
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+Usquid:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20939"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854¦":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Vsquid:S4719Í"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Æ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854¸":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Vsquid:S4719Ô"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Í"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854¸":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854ë":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Hsquid:S1481¦"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481¸"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481¸"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481ë"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ

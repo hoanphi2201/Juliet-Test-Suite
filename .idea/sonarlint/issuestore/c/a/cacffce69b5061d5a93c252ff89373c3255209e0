@@ -1,0 +1,19 @@
+
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199s"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1444 ".Make this "public static password" field final(İÿ¢şÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck "TMake password a static final constant or non-public and provide accessors if needed.(İÿ¢şÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È¼ı‹
+^squid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+csquid:S00112m"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¸Æ™ÿÿÿÿÿ
+Msquid:S2696%"6Make the enclosing method "static" or remove this set.(²â†
+Psquid:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Msquid:S26965"6Make the enclosing method "static" or remove this set.(÷Ø«
+Fsquid:S2093-"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+msquid:S2068g"V'password' detected in this expression, review this potentially hard-coded credential.(º Ö
+Msquid:S2696g"6Make the enclosing method "static" or remove this set.(º Ö
+Msquid:S2696p"6Make the enclosing method "static" or remove this set.(²â†
+Psquid:S4719z"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Nsquid:S2696€"6Make the enclosing method "static" or remove this set.(÷Ø«
+Fsquid:S2093x"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ

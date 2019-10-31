@@ -1,0 +1,29 @@
+
+—squid:S1192<"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(ïàóŸúÿÿÿÿ
+|squid:S1192V"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 5 times.(±ÝÜëþÿÿÿÿ
+ssquid:S1192@"WDefine a constant instead of duplicating this literal ", updated successfully" 5 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192@"GDefine a constant instead of duplicating this literal "Name, " 5 times.(°ÓÄƒùÿÿÿÿ
+ysquid:S1192I"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192b"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+€squid:S1192D"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 5 times.(šÚçýÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙéÚÄþÿÿÿÿ
+^squid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112¯"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112ó"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+Asquid:S5411>"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411„"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411È"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411—"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411Ý"*Use the primitive boolean expression here.(“±˜Ï
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+isquid:S3776%"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûóÌå
+isquid:S3776i"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙÌú
+=squid:S1172i"&Remove these unused method parameters.(ÙÌú
+jsquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚØ÷“
+>squid:S1172¯"&Remove these unused method parameters.(ÚØ÷“
+jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õåæ˜
+Gsquid:S1172ó"/Remove this unused method parameter "response".(õåæ˜
+osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172Ã"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

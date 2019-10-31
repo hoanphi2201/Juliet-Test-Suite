@@ -1,0 +1,22 @@
+
+Isquid:S11998"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141I"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+esquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦™ƒù
+csquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(ÓŠÎòşÿÿÿÿ
+dsquid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(ÊÌšçùÿÿÿÿ
+_squid:S00112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(Íü³€
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…˜ø‘
+ysquid:S00116˜"[Rename this field "goodG2B1_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡ø¼üÿÿÿÿ
+ysquid:S00116™"[Rename this field "goodG2B2_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”°Öèûÿÿÿÿ
+\squid:S1854-"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+nsquid:S37761"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÓŠÎòşÿÿÿÿ
+ksquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŠÎòşÿÿÿÿ
+Usquid:S4719C"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S2093>"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+]squid:S1854ª"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+lsquid:S00100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÌšçùÿÿÿÿ
+]squid:S1854Ì"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+gsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íü³€
+Msquid:S1481-"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Nsquid:S1481ª"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Nsquid:S1481Ì"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ

@@ -1,0 +1,11 @@
+
+esquid:S1192!"IDefine a constant instead of duplicating this literal "result: " 3 times.(­ΐ¥Ήωÿÿÿÿ
+squid:S1319"sThe type of the "dataHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ι¤΅ώÿÿÿÿ
+squid:S1319&"sThe type of the "dataHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ΔΏθι
+squid:S13192"sThe type of the "dataHashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ƒ–ª
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(άΏΒΉωÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ι¤΅ώÿÿÿÿ
+^squid:S00112&"FDefine and throw a dedicated exception instead of using a generic one.(ΔΏθι
+^squid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(ƒ–ª
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ϊπ¤F
+nsquid:S4144&"WUpdate this method so that its implementation is not identical to "badSink" on line 26.(ΔΏθι

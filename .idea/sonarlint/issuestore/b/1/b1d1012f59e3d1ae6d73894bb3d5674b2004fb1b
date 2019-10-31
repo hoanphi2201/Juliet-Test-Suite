@@ -1,0 +1,17 @@
+
+esquid:S11921"IDefine a constant instead of duplicating this literal "result: " 4 times.(­À¥¹ùÿÿÿÿ
+Ksquid:S1066-"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Ksquid:S1066y"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+Lsquid:S1066™"/Merge this if statement with the enclosing one.(›‹îËıÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹¶Ë‘ùÿÿÿÿ
+csquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(ìÆÉıÿÿÿÿ
+csquid:S00112N"FDefine and throw a dedicated exception instead of using a generic one.(÷¹Ã¸ùÿÿÿÿ
+^squid:S00112u"FDefine and throw a dedicated exception instead of using a generic one.(ˆÏéÜ
+dsquid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(ÆÍ¨œÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şîœ
+Bsquid:S19050"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Bsquid:S1905]"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Bsquid:S1905~"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+Csquid:S1905œ"&Remove this unnecessary cast to "int".(¶£Ğ†şÿÿÿÿ
+asquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(íÎ¹/
+bsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(íÎ¹/

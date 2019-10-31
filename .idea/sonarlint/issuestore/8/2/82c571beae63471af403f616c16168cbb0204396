@@ -1,0 +1,23 @@
+
+vsquid:S11928"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192W"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192J"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+vsquid:S1192<"ZDefine a constant instead of duplicating this literal "Error with number parsing" 3 times.(§ïÑıÿÿÿÿ
+esquid:S1192g"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+]squid:S1192."FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(À°éó
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÍƒÚ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘öÜÜıÿÿÿÿ
+isquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼’‰Ü
+Psquid:S4719."9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093,"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÅËßï
+Qsquid:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093¨"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ªËáèşÿÿÿÿ
+Qsquid:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093€"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÓÔÑ

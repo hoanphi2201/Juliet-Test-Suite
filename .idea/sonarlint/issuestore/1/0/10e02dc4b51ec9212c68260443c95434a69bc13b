@@ -1,0 +1,12 @@
+
+squid:S1192&"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 3 times.( π¨
+hsquid:S1192-"LDefine a constant instead of duplicating this literal "hello world" 3 times.(ϊ¥‡φψÿÿÿÿ
+–squid:S1319"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(ƒμΪ£ψÿÿÿÿ
+squid:S13193"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(πώª:
+–squid:S1319K"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(’ήςϋÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΧΎ―έόÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ƒμΪ£ψÿÿÿÿ
+]squid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(πώª:
+csquid:S00112K"FDefine and throw a dedicated exception instead of using a generic one.(’ήςϋÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Αυ½™
+msquid:S41443"WUpdate this method so that its implementation is not identical to "badSink" on line 27.(πώª:

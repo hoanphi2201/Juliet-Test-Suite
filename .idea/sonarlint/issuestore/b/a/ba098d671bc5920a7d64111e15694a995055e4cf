@@ -1,0 +1,26 @@
+
+esquid:S1192E"IDefine a constant instead of duplicating this literal " out of " 3 times.(²£Ä şÿÿÿÿ
+fsquid:S1192E"JDefine a constant instead of duplicating this literal " queries." 3 times.(²£Ä şÿÿÿÿ
+jsquid:S1192E"NDefine a constant instead of duplicating this literal "Succeeded in " 3 times.(²£Ä şÿÿÿÿ
+ysquid:S1192I"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192b"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+Isquid:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199º"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Nsquid:S2589w"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­´
+csquid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ûóÌå
+Tsquid:S1197&"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Osquid:S11970"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197="8Move the array designator from the variable to the type.(Ñ Ã
+nsquid:S3776p"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÛúÊ„üÿÿÿÿ
+Bsquid:S1172p"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+Osquid:S1197y"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197†"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰øı“
+Gsquid:S1172³"/Remove this unused method parameter "response".(‰øı“
+Usquid:S1197»"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Psquid:S1197Å"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Ó"8Move the array designator from the variable to the type.(Ñ Ã

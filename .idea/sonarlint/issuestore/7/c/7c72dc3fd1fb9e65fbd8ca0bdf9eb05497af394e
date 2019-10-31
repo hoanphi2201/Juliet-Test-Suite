@@ -1,0 +1,28 @@
+
+zsquid:S1192Œ"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 3 times.(Ã¥Œ¹ùÿÿÿÿ
+ysquid:S1192—"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+]squid:S1192{"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±½ã
+|squid:S1192¢"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+]squid:S1192:"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ÎÍø•
+vsquid:S1192"ZDefine a constant instead of duplicating this literal "Error with stream writing" 3 times.(ë‰ÜŸıÿÿÿÿ
+Isquid:S11993"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141D"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141€"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Tsquid:S2589Û"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589Å"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589Ğ"7Remove this expression which always evaluates to "true"(ò›àá
+jsquid:S00101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú§¾îùÿÿÿÿ
+_squid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ó“Şúÿÿÿÿ
+isquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¼’‰Ü
+Psquid:S4719:"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Fsquid:S20938"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Usquid:S4719s"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+jsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ò¸ˆÓ
+Vsquid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(”øÿÿÿÿ
+Qsquid:S4719ö"9Replace charset name argument with StandardCharsets.UTF_8(ÎÍø•
+Gsquid:S2093ô"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Vsquid:S4719²"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ

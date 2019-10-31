@@ -1,0 +1,10 @@
+
+Isquid:S11991"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çóÌ¤ÿÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(©Õ üÿÿÿÿ
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ÅÙ™
+csquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ñßæ
+Jsquid:S1172".Remove this unused method parameter "request".(©Õ üÿÿÿÿ
+Tsquid:S11972"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Esquid:S1172C".Remove this unused method parameter "request".(ÅÙ™

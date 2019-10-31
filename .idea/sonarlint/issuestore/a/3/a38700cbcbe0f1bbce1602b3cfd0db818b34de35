@@ -1,0 +1,19 @@
+
+squid:S1192B"qDefine a constant instead of duplicating this literal "Number format exception parsing data from string" 3 times.(­ôÆèûÿÿÿÿ
+|squid:S1192b"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 3 times.(±İÜëşÿÿÿÿ
+osquid:S1192V"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 3 times.(úÂÔÅ
+ysquid:S11925"bDefine a constant instead of duplicating this literal "select name from users where id=0" 3 times.(£ò¡³
+usquid:S1192n"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+usquid:S1192H"YDefine a constant instead of duplicating this literal "Error with SQL statement" 3 times.(éÄüÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199•"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141<"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141§"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Rsquid:S1141“"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò”?
+csquid:S00112w"FDefine and throw a dedicated exception instead of using a generic one.(ìÆÉıÿÿÿÿ
+dsquid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(÷¹Ã¸ùÿÿÿÿ
+_squid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(ˆÏéÜ
+dsquid:S00112ê"FDefine and throw a dedicated exception instead of using a generic one.(ÆÍ¨œÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş»Á 

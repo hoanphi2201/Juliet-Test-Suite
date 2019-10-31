@@ -1,0 +1,16 @@
+
+rsquid:S11927"VDefine a constant instead of duplicating this literal "Super secret Squirrel" 3 times.(âØ¼ğşÿÿÿÿ
+bsquid:S11928"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(û…„åûÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç‰ùúşÿÿÿÿ
+^squid:S00112D"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Í†¢
+Usquid:S47198"9Replace charset name argument with StandardCharsets.UTF_8(û…„åûÿÿÿÿ
+Psquid:S4719:"9Replace charset name argument with StandardCharsets.UTF_8( ¾çÓ
+Osquid:S4719U"9Replace charset name argument with StandardCharsets.UTF_8(©Ä“`
+Usquid:S4719f"9Replace charset name argument with StandardCharsets.UTF_8(û…„åûÿÿÿÿ
+Psquid:S4719h"9Replace charset name argument with StandardCharsets.UTF_8( ¾çÓ
+Osquid:S4719{"9Replace charset name argument with StandardCharsets.UTF_8(©Ä“`
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(û…„åûÿÿÿÿ
+Qsquid:S4719’"9Replace charset name argument with StandardCharsets.UTF_8( ¾çÓ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÓÔÑ

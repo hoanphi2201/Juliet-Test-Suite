@@ -1,0 +1,52 @@
+
+xsquid:S1192"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 5 times.(Ãº°—şÿÿÿÿ
+vsquid:S1192@"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+isquid:S1192/"MDefine a constant instead of duplicating this literal "C:\\data.txt" 3 times.(¼¿†ÿÿÿÿÿ
+qsquid:S1192"TDefine a constant instead of duplicating this literal "' and pass/text()='" 5 times.(¢™›ûÿÿÿÿ
+|squid:S1192Z"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+¥squid:S1192x"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 5 times.(ÚÖ‘ø
+ssquid:S1192N"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192‘"ODefine a constant instead of duplicating this literal "/secret/text()" 5 times.(÷æ¢Æ
+dsquid:S1192u"HDefine a constant instead of duplicating this literal "os.name" 5 times.(äæçşÿÿÿÿ
+usquid:S1192f"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 3 times.(Ã»àĞ
+¢squid:S1192}"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 5 times.(¨½ªè
+]squid:S11927"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(º§´”
+Isquid:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Š"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÒâ»
+_squid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ú"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+isquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼’‰Ü
+bsquid:S1764+"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+]squid:S1075/"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S47197"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S20933"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:S1764r"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Wsquid:S1854É":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+hsquid:S1764›"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+csquid:S1764©"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Wsquid:S1854ş":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+csquid:S1764Ò"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+csquid:S1764Ş"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÅËßï
+csquid:S1764‡"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+^squid:S1075‹"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719“"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+hsquid:S1764Î"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+osquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ªËáèşÿÿÿÿ
+csquid:S1764ı"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719‰"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093…"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+csquid:S1764Ä"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+Hsquid:S1481’"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481É"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481ş"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481ó"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481â"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

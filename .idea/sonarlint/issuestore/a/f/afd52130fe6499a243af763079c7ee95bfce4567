@@ -1,0 +1,17 @@
+
+}squid:S1192="fDefine a constant instead of duplicating this literal "<br>bad() - Parameter name has value " 3 times.(¸œ¶
+[squid:S2583F"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583+"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583c"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S2589o"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Nsquid:S2589T"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±Êë­üÿÿÿÿ
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûè²K
+Esquid:S1172C".Remove this unused method parameter "request".(ÙÌú
+Esquid:S1172`".Remove this unused method parameter "request".(ÚØ÷“
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ÑÛÀ¢ûÿÿÿÿ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ÑÛÀ¢ûÿÿÿÿ
+gsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(ÑÛÀ¢ûÿÿÿÿ

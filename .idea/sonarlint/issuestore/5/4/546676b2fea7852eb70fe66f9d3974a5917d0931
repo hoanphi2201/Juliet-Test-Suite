@@ -1,0 +1,41 @@
+
+lsquid:S1192r"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+tsquid:S1192`"XDefine a constant instead of duplicating this literal "Error closing Statement" 3 times.(‘¾¶«şÿÿÿÿ
+osquid:S1192T"XDefine a constant instead of duplicating this literal "Error closing ResultSet" 5 times.(úÂÔÅ
+}squid:S1192B"aDefine a constant instead of duplicating this literal "select * from users where name='" 3 times.(›ĞÀÑüÿÿÿÿ
+ysquid:S1192G"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+usquid:S1192l"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¥"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:S1301""KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S13017"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301|"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+csquid:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301Î"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301Û"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301û"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ş³™
+^squid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112Ê"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112÷"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ûóÌå
+Tsquid:S1197("8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+isquid:S3776x"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙÌú
+=squid:S1172x"&Remove these unused method parameters.(ÙÌú
+jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚØ÷“
+>squid:S1172Ê"&Remove these unused method parameters.(ÚØ÷“
+jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õåæ˜
+Gsquid:S1172œ"/Remove this unused method parameter "response".(õåæ˜
+Usquid:S1197¦"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172÷"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±şÿÿÿÿ
+bsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(¢úï
+csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(²ÅÓ“

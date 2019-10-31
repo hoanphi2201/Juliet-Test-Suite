@@ -1,0 +1,49 @@
+
+vsquid:S11927"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+lsquid:S1192u"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+|squid:S1192Q"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192E"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192."QDefine a constant instead of duplicating this literal "host.example.org" 3 times.(™¿À
+lsquid:S1192^"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+bsquid:S11920"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199È"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¥"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:S1301""KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301j"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ĞÈŠì
+csquid:S1301Œ"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301¡"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+hsquid:S1301Ã"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301‹"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301è"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­Í±úÿÿÿÿ
+^squid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÖŠ¤
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼’‰Ü
+Usquid:S47190"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S2093+"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(š“‡ğ
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÅËßï
+Vsquid:S4719Ñ"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ì"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ÊƒàË
+osquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ªËáèşÿÿÿÿ
+Vsquid:S4719®"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093©"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+P
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ÊƒàË
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±şÿÿÿÿ
+bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(¢úï
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(²ÅÓ“

@@ -1,0 +1,21 @@
+
+squid:S1192@"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 5 times.( ğ¨Œ
+asquid:S1192."JDefine a constant instead of duplicating this literal "user.home" 3 times.(»¯ùŠ
+hsquid:S1192F"LDefine a constant instead of duplicating this literal "hello world" 5 times.(ú¥‡öøÿÿÿÿ
+[squid:S2583O"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583*"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583u"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583É"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+\squid:S2583¦"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583™"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S2589]"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S25897"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589Ö"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜØ¨"
+^squid:S00112L"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

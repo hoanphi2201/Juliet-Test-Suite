@@ -1,0 +1,19 @@
+
+Isquid:S1199&"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S11994"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199‡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199«"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S1141@"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ²Êı
+^squid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(¶¼ß
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(½Àè‡ùÿÿÿÿ
+_squid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(§¼Ñ¢
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä’‘Îşÿÿÿÿ
+xsquid:S00116v"[Rename this field "goodG2B1_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‡ø¼üÿÿÿÿ
+xsquid:S00116w"[Rename this field "goodG2B2_private" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”°Öèûÿÿÿÿ
+isquid:S3776-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶¼ß
+fsquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼ß
+Psquid:S4719:"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S20938"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Àè‡ùÿÿÿÿ
+gsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¼Ñ¢

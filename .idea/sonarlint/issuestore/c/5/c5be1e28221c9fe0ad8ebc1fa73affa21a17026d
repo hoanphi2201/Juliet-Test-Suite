@@ -1,0 +1,28 @@
+
+‘squid:S1192+"{Define a constant instead of duplicating this literal "Number format exception reading data from parameter 'name'" 3 times.(³½Çr
+Šsquid:S1192M"sDefine a constant instead of duplicating this literal "data value is too small to perform multiplication." 3 times.(Ó”…Å
+esquid:S1192="IDefine a constant instead of duplicating this literal "result: " 6 times.(­À¥¹ùÿÿÿÿ
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199…"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199—"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥Úç¥ûÿÿÿÿ
+csquid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+^squid:S00112~"FDefine and throw a dedicated exception instead of using a generic one.(‰øý“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žþîœ
+Bsquid:S1905<"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Bsquid:S1905H"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Bsquid:S1172V"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+wsquid:S3923Y"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+wsquid:S3923f"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+Bsquid:S1905k"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Bsquid:S1905u"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+isquid:S3776~"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰øý“
+Fsquid:S1172~"/Remove this unused method parameter "response".(‰øý“
+xsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+xsquid:S3923¦"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+Csquid:S1905­"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+Csquid:S1905¾"&Remove this unnecessary cast to "int".(¶£Ð†þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êýÿÿÿÿ
+asquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(íÎ¹/
+asquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(íÎ¹/
+asquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(íÎ¹/

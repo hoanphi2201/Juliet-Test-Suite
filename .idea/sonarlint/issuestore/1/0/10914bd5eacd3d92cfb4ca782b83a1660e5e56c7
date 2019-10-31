@@ -1,0 +1,41 @@
+
+wsquid:S1192V"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 6 times.(Ãº°—şÿÿÿÿ
+psquid:S1192W"TDefine a constant instead of duplicating this literal "' and pass/text()='" 6 times.(¢™›ûÿÿÿÿ
+¥squid:S1192?"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 6 times.(ÚÖ‘ø
+fsquid:S1192X"ODefine a constant instead of duplicating this literal "/secret/text()" 6 times.(÷æ¢Æ
+dsquid:S1192<"HDefine a constant instead of duplicating this literal "os.name" 6 times.(äæçşÿÿÿÿ
+¢squid:S1192D"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 6 times.(¨½ªè
+Isquid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199÷"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589¡"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Osquid:S2589Æ"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊöÌÀ
+dsquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+isquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ûóÌå
+Vsquid:S1854Y":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Vsquid:S1854|":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Tsquid:S1197)"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÛúÊ„üÿÿÿÿ
+Csquid:S1172„"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+Wsquid:S1854´":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854Ù":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+xsquid:S3923‡"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+xsquid:S3923”"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰øı“
+Gsquid:S1172á"/Remove this unused method parameter "response".(‰øı“
+Wsquid:S1854 ":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854Ã":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+xsquid:S3923ä"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Usquid:S1197é"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Usquid:S1197ø"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+xsquid:S3923‚"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Gsquid:S1481Y"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Gsquid:S1481|"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481´"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ù"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481 "+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ã"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

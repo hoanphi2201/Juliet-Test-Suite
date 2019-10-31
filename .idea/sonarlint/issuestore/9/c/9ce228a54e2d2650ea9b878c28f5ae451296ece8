@@ -1,0 +1,18 @@
+
+8squid:S2189""Add an end condition to this loop.(¤èÄ7
+zsquid:S11925"^Define a constant instead of duplicating this literal "Not enough memory to go again" 3 times.(öžä°øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ý¹Ÿ¥þÿÿÿÿ
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…˜ø‘
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼’‰Ü
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¹¥·ÿÿÿÿÿ
+usquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¹¥·ÿÿÿÿÿ
+nsquid:S3776C"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ð–­Éùÿÿÿÿ
+wsquid:S3923E"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+usquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¹¥·ÿÿÿÿÿ
+usquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¹¥·ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿš’Öûÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(Ÿš’Öûÿÿÿÿ
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(Ÿš’Öûÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(Ÿš’Öûÿÿÿÿ

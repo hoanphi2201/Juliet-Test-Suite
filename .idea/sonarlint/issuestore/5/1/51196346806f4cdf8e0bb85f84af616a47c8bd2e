@@ -1,0 +1,11 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Çœáˇ¸ˇˇˇˇ
+^squid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(“∏à”
+csquid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(èçûî¯ˇˇˇˇ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª“ég
+|squid:S1149#"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ê«’Å
+|squid:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ê«’Å
+|squid:S1149H"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ê«’Å
+psquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê«’Å
+psquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê«’Å
+psquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê«’Å

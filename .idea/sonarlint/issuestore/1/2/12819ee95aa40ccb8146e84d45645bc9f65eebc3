@@ -1,0 +1,12 @@
+
+‚squid:S1192;"fDefine a constant instead of duplicating this literal "This would result in a divide by zero" 3 times.(¿‹Ë“øÿÿÿÿ
+asquid:S1192/"JDefine a constant instead of duplicating this literal "bad: 100/" 3 times.(¾áÆü
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë¸×¦
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+csquid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àè¹îıÿÿÿÿ
+wsquid:S3923F"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923S"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923h"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923u"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

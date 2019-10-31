@@ -1,0 +1,12 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ÉÎÍ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òï¦ÿÿÿÿÿ
+rsquid:CallToDeprecatedMethod "JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éËëš
+["squid:ObjectFinalizeOverridenCheck "-Do not override the Object.finalize() method.(éËëš
+]squid:CallToDeprecatedMethod*"0Remove this use of "finalize"; it is deprecated.(¯¶ú“üÿÿÿÿ
+rsquid:CallToDeprecatedMethod6"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éËëš
+["squid:ObjectFinalizeOverridenCheck6"-Do not override the Object.finalize() method.(éËëš
+Qsquid:S11616":Add the "@Override" annotation above this method signature(éËëš
+<squid:S1181D"%Catch Exception instead of Throwable.(şø¾Ò
+™4squid:ObjectFinalizeOverridenCallsSuperFinalizeCheckB"TMove this super.finalize() call to the end of this Object.finalize() implementation.(¯¶ú“üÿÿÿÿ
+Zsquid:S1854]">Remove this useless assignment to local variable "objectGood".(¢€·Òùÿÿÿÿ

@@ -1,0 +1,52 @@
+
+ssquid:S11923"\Define a constant instead of duplicating this literal "../common/config.properties" 6 times.(‚¹ÂŠ
+vsquid:S11929"ZDefine a constant instead of duplicating this literal "Error with stream reading" 6 times.(…µŠûÿÿÿÿ
+_squid:S11925"IDefine a constant instead of duplicating this literal "password" 6 times.(¡ó¶{
+zsquid:S1192ˆ"bDefine a constant instead of duplicating this literal "Error getting database connection" 6 times.(ù÷êµ
+vsquid:S1192•"YDefine a constant instead of duplicating this literal "Error closing Connection" 6 times.(äªøûÿÿÿÿ
+hsquid:S1192u"QDefine a constant instead of duplicating this literal "ABCDEFGHABCDEFGH" 6 times.(ö«ÉÅ
+usquid:S1192G"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 6 times.(Ã»àĞ
+gsquid:S1192„"ODefine a constant instead of duplicating this literal "192.168.105.23" 6 times.(ü’¦
+^squid:S1192u"GDefine a constant instead of duplicating this literal "UTF-8" 18 times.(ö«ÉÅ
+Isquid:S1199q"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199˜"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199°"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀâöÇúÿÿÿÿ
+_squid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+dsquid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¦ó†
+isquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼’‰Ü
+Fsquid:S20931"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Fsquid:S2093U"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Psquid:S4719u"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Osquid:S4719x"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Osquid:S4719x"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Qsquid:S4719¡"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719¤"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719¤"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ò¸ˆÓ
+xsquid:S3923È"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Gsquid:S2093Î"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719ì"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719ï"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719ï"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Gsquid:S2093ü"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Qsquid:S4719œ"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+xsquid:S3923¥"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(”øÿÿÿÿ
+xsquid:S3923å"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Gsquid:S2093ë"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Gsquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+xsquid:S3923­"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Qsquid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719µ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719µ"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Qsquid:S4719Ø"9Replace charset name argument with StandardCharsets.UTF_8(ö«ÉÅ
+Psquid:S4719Û"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+Psquid:S4719Û"9Replace charset name argument with StandardCharsets.UTF_8(‹ÀŞs
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

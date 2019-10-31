@@ -1,0 +1,29 @@
+
+çsquid:S11928"qDefine a constant instead of duplicating this literal "Number format exception parsing data from string" 3 times.(≠Ù∆Ë˚ˇˇˇˇ
+asquid:S11921"JDefine a constant instead of duplicating this literal "user.home" 3 times.(•√Èê
+esquid:S1192H"IDefine a constant instead of duplicating this literal "result: " 5 times.(≠¿•π˘ˇˇˇˇ
+Isquid:S11990"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+Jsquid:S1199â"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+Jsquid:S1199º"-Extract this nested code block into a method.(“Ã‚ñ¯ˇˇˇˇ
+\squid:S2583ú"DChange this condition so that it does not always evaluate to "false"(¥…Ωº
+[squid:S2583∑"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+[squid:S2583P"DChange this condition so that it does not always evaluate to "false"(¥…Ωº
+[squid:S2583Ñ"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Zsquid:S2583+"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Zsquid:S2583k"CChange this condition so that it does not always evaluate to "true"(›Ñœƒ
+Nsquid:S2589^"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Osquid:S2589œ"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Nsquid:S2589w"7Remove this expression which always evaluates to "true"(›Ñœƒ
+Nsquid:S2589C"7Remove this expression which always evaluates to "true"(›Ñœƒ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â€º„
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(ïﬂÁà
+^squid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(˘ûÕå
+_squid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(≈ÀﬂÔ
+dsquid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(™À·Ë˛ˇˇˇˇ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“äŒÇ
+=squid:S1905G"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905b"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+=squid:S1905{"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905®"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+>squid:S1905’"&Remove this unnecessary cast to "int".(Ñ∫÷≈
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í•ßª

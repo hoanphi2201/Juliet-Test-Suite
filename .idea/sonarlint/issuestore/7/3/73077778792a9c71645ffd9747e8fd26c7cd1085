@@ -1,0 +1,21 @@
+
+isquid:S1192/"MDefine a constant instead of duplicating this literal "[a-zA-Z0-9]*" 3 times.(šâ“Ðÿÿÿÿÿ
+gsquid:S11925"KDefine a constant instead of duplicating this literal "Username: " 3 times.(’„˜ºùÿÿÿÿ
+xsquid:S1192D"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+esquid:S1192("IDefine a constant instead of duplicating this literal "username" 6 times.(²þ£Íüÿÿÿÿ
+jsquid:S11929"SDefine a constant instead of duplicating this literal "Invalid characters" 3 times.(´Û›²
+bsquid:S11922"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ƒ—‹‚ùÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾¼ïúøÿÿÿÿ
+csquid:S00112J"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+csquid:S00112y"FDefine and throw a dedicated exception instead of using a generic one.(Á£§åþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éæ„Ç
+Usquid:S47192"9Replace charset name argument with StandardCharsets.UTF_8(ƒ—‹‚ùÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ƒ—‹‚ùÿÿÿÿ
+Usquid:S4719_"9Replace charset name argument with StandardCharsets.UTF_8(ƒ—‹‚ùÿÿÿÿ
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ƒ—‹‚ùÿÿÿÿ
+Vsquid:S4719†"9Replace charset name argument with StandardCharsets.UTF_8(ƒ—‹‚ùÿÿÿÿ
+U
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ƒ—‹‚ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«øŽ´

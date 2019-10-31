@@ -1,0 +1,15 @@
+
+Ssquid:S3518Ÿ"<Make sure "data" can't be zero before doing this modulation.(”åÜn
+Rsquid:S3518/"<Make sure "data" can't be zero before doing this modulation.(”åÜn
+Ssquid:S3518€"<Make sure "data" can't be zero before doing this modulation.(”åÜn
+Rsquid:S3518I"<Make sure "data" can't be zero before doing this modulation.(”åÜn
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôŒ
+^squid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+^squid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş»Á 
+rsquid:S3923!"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è˜ ¥
+rsquid:S3923j"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è˜ ¥
+ssquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è˜ ¥
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ£Ì_

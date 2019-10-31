@@ -1,0 +1,12 @@
+
+isquid:S1192"MDefine a constant instead of duplicating this literal "C:\\file.zip" 3 times.(òÀÄğşÿÿÿÿ
+Qsquid:S1141*"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Ssquid:S2589,"7Remove this expression which always evaluates to "true"(ã äÜúÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãæ’š
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ“¶úÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(òÀÄğşÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ğôá¶
+]squid:S1075F"ARefactor your code to get this URI from a customizable parameter.(òÀÄğşÿÿÿÿ
+Xsquid:S1075K"ARefactor your code to get this URI from a customizable parameter.(Ğôá¶
+Fsquid:S2093P"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Csquid:S1481B"-Remove this unused "filename" local variable.(É²t

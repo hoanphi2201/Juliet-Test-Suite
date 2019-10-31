@@ -1,0 +1,10 @@
+
+Fsquid:S1444"*Make this "public static data" field final(”ÃĞÚÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(”ÃĞÚÿÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êíÁÂ
+^squid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+csquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(”øÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úğ¤F
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ŸšŸ¦ûÿÿÿÿ
+Lsquid:S2696/"6Make the enclosing method "static" or remove this set.(âÙÿ\
+Rsquid:S26969"6Make the enclosing method "static" or remove this set.(ŸšŸ¦ûÿÿÿÿ

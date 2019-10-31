@@ -1,0 +1,16 @@
+
+isquid:S11921"RDefine a constant instead of duplicating this literal "/author.jsp?lang=" 6 times.(ø—òã
+`squid:S11921"IDefine a constant instead of duplicating this literal "Location" 6 times.(ø—òã
+bsquid:S1192:"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(²¤ìáüÿÿÿÿ
+Nsquid:S2589^"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Nsquid:S2589U"7Remove this expression which always evaluates to "true"(Ì ¨‘
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èñ¡§
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+^squid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(‰øý“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªèÖšùÿÿÿÿ
+Jsquid:S1172C".Remove this unused method parameter "request".(ÛúÊ„üÿÿÿÿ
+wsquid:S3923F"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+wsquid:S3923S"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+wsquid:S3923l"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+wsquid:S3923y"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êýÿÿÿÿ

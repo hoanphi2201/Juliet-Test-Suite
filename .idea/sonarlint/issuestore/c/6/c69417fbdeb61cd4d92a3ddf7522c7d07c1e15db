@@ -1,0 +1,28 @@
+
+ysquid:S1192B"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 3 times.(Ã¥Œ¹ùÿÿÿÿ
+xsquid:S1192N"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+]squid:S11920"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±½ã
+{squid:S1192Z"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192'"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¨ªª›úÿÿÿÿ
+vsquid:S11924"ZDefine a constant instead of duplicating this literal "Error with stream writing" 3 times.(ë‰ÜŸıÿÿÿÿ
+Tsquid:S2589¹"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Nsquid:S2589G"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589;"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Ssquid:S2589S"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Osquid:S2589Ä"7Remove this expression which always evaluates to "true"(ò›àá
+Osquid:S2589†"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589z"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589Ï"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589’"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å†²è
+csquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(•´­¬ÿÿÿÿÿ
+csquid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(á­ı½ıÿÿÿÿ
+dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÉÎñùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+Bsquid:S1172!"&Remove these unused method parameters.(•´­¬ÿÿÿÿÿ
+Usquid:S4719'"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Bsquid:S1172`"&Remove these unused method parameters.(á­ı½ıÿÿÿÿ
+Usquid:S4719f"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÉÎñùÿÿÿÿ
+Csquid:S1172Ÿ"&Remove these unused method parameters.(ÉÎñùÿÿÿÿ
+Vsquid:S4719¨"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ

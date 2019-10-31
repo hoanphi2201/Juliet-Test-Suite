@@ -1,0 +1,12 @@
+
+bsquid:S11929"FDefine a constant instead of duplicating this literal "Hello" 3 times.(ó¹Í•şÿÿÿÿ
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199^"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œş¦C
+csquid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+^squid:S00112W"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+Tsquid:S1197$"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Bsquid:S1172E"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+Fsquid:S1172W"/Remove this unused method parameter "response".(‰øı“
+Tsquid:S1197_"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ

@@ -1,0 +1,28 @@
+
+squid:S1192y"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 5 times.( ğ¨Œ
+vsquid:S1192="ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192W"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+ssquid:S1192K"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S11924"QDefine a constant instead of duplicating this literal "host.example.org" 3 times.(™¿À
+lsquid:S1192d"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+hsquid:S1192"LDefine a constant instead of duplicating this literal "hello world" 5 times.(ú¥‡öøÿÿÿÿ
+bsquid:S11926"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Isquid:S1199-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ö"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ÓÄ®
+_squid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112¹"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+isquid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼’‰Ü
+Usquid:S47196"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20931"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+jsquid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÅËßï
+Vsquid:S4719ß"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ú"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ªËáèşÿÿÿÿ
+Vsquid:S4719É"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ä"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ø´

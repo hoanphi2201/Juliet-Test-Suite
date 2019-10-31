@@ -1,0 +1,21 @@
+
+†squid:S1192U"pDefine a constant instead of duplicating this literal "The LDAP service was not found or login failed." 3 times.(õ˜…6
+psquid:S1192a"YDefine a constant instead of duplicating this literal "Error closing DirContext" 3 times.(Ü¾©‘
+xsquid:S11928"aDefine a constant instead of duplicating this literal "com.sun.jndi.ldap.LdapCtxFactory" 3 times.(Á§ï²
+^squid:S1192N"IDefine a constant instead of duplicating this literal " Value: " 3 times.(…ê
+qsquid:S11929"UDefine a constant instead of duplicating this literal "ldap://localhost:389" 3 times.(¿œ†ûÿÿÿÿ
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿®‹÷şÿÿÿÿ
+^squid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í Øº
+rsquid:S11497"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+rsquid:S1149z"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+ssquid:S1149»"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+Tsquid:S1197("8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+usquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+=squid:S1172i"&Remove these unused method parameters.(ÙÌú
+usquid:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+>squid:S1172¬"&Remove these unused method parameters.(ÚØ÷“
+vsquid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àáì§øÿÿÿÿ

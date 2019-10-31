@@ -1,0 +1,13 @@
+
+–squid:S1319 "zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(ôÏêÿÿÿÿÿ
+‘squid:S1319V"zThe type of the "dataLinkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(Ï—â
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó“»ğ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ôÏêÿÿÿÿÿ
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(Ï—â
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í Øº
+rsquid:S1149$"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+rsquid:S1149Z"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+Bsquid:S1172 "&Remove these unused method parameters.(ôÏêÿÿÿÿÿ
+usquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+=squid:S1172V"&Remove these unused method parameters.(Ï—â
+usquid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ

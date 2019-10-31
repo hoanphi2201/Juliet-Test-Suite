@@ -1,0 +1,7 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Áåœ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ²ìüÿÿÿÿ
+9squid:S2386"Make this member "protected".(ÛÎÅ†úÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÛÎÅ†úÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÛÎÅ†úÿÿÿÿ
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(æ‡Õáüÿÿÿÿ

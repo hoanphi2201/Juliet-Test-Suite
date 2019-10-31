@@ -1,0 +1,53 @@
+
+—squid:S1192w"{Define a constant instead of duplicating this literal "insert into users (status) values ('updated') where name='" 3 times.(ğáÖ§úÿÿÿÿ
+vsquid:S1192<"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+isquid:S1192+"MDefine a constant instead of duplicating this literal "C:\\data.txt" 3 times.(¼¿†ÿÿÿÿÿ
+|squid:S1192V"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+usquid:S1192"XDefine a constant instead of duplicating this literal "Error closing Statement" 3 times.(‘¾¶«şÿÿÿÿ
+ssquid:S1192z"WDefine a constant instead of duplicating this literal ", updated successfully" 5 times.(°ÓÄƒùÿÿÿÿ
+csquid:S1192z"GDefine a constant instead of duplicating this literal "Name, " 5 times.(°ÓÄƒùÿÿÿÿ
+ssquid:S1192J"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+zsquid:S1192ƒ"bDefine a constant instead of duplicating this literal "Error getting database connection" 5 times.(ù÷êµ
+vsquid:S1192œ"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+usquid:S1192b"^Define a constant instead of duplicating this literal "Error closing FileInputStream" 3 times.(Ã»àĞ
+€squid:S1192~"dDefine a constant instead of duplicating this literal "Unable to update records for user: " 5 times.(šÚçıÿÿÿÿ
+]squid:S11923"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(º§´”
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199³"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199½"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢œÚ°úÿÿÿÿ
+_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112·"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+Asquid:S5411x"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411¾"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411‚"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411‹"*Use the primitive boolean expression here.(“±˜Ï
+Bsquid:S5411Œ"*Use the primitive boolean expression here.(“±˜Ï
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+isquid:S3776$"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¼’‰Ü
+bsquid:S1764'"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+]squid:S1075+"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S47193"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S2093/"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:S1764n"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+jsquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ßçˆ
+hsquid:S1764¦"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+csquid:S1764´"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+jsquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùÍŒ
+csquid:S1764ì"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+csquid:S1764ø"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+jsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÅËßï
+csquid:S1764°"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+^squid:S1075´"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719¼"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093¸"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+hsquid:S1764÷"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ªËáèşÿÿÿÿ
+csquid:S1764º"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+^squid:S1075¾"ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Qsquid:S4719Æ"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Gsquid:S2093Â"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+csquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

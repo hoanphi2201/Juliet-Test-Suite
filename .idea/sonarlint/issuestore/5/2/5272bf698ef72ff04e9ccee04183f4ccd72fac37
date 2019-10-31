@@ -1,0 +1,5 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûÀˆ÷
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ã¬»Öûÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÉÖƒ
+†squid:S1610"oConvert the abstract class "CWE197_Numeric_Truncation_Error__int_listen_tcp_to_byte_81_base" into an interface.(ûÀˆ÷

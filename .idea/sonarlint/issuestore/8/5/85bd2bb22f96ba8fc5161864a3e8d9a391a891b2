@@ -1,0 +1,19 @@
+
+qsquid:S1192."ZDefine a constant instead of duplicating this literal "Array index out of bounds" 3 times.(“¾µ†
+Isquid:S1199:"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨Â„µüÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(©Õ üÿÿÿÿ
+^squid:S00112U"FDefine and throw a dedicated exception instead of using a generic one.(ÅÙ™
+csquid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+csquid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(Úæÿ“úÿÿÿÿ
+_squid:S00112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€îÖùÿÿÿÿ
+Bsquid:S1172 "&Remove these unused method parameters.(©Õ üÿÿÿÿ
+Osquid:S1197%"8Move the array designator from the variable to the type.(û½œë
+Tsquid:S1197;"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+=squid:S1172U"&Remove these unused method parameters.(ÅÙ™
+Osquid:S1197Z"8Move the array designator from the variable to the type.(û½œë
+Bsquid:S1172t"&Remove these unused method parameters.(Úæÿ“úÿÿÿÿ
+Osquid:S1197y"8Move the array designator from the variable to the type.(û½œë
+Usquid:S1197"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ

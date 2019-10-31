@@ -1,0 +1,20 @@
+
+esquid:S11927"IDefine a constant instead of duplicating this literal " out of " 3 times.(²£Ä şÿÿÿÿ
+fsquid:S11927"JDefine a constant instead of duplicating this literal " queries." 3 times.(²£Ä şÿÿÿÿ
+jsquid:S11927"NDefine a constant instead of duplicating this literal "Succeeded in " 3 times.(²£Ä şÿÿÿÿ
+ysquid:S1192;"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192T"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂÉ¬ß
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(äçÇ°şÿÿÿÿ
+csquid:S00112\"FDefine and throw a dedicated exception instead of using a generic one.(— Œœùÿÿÿÿ
+dsquid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(·«ÌÔúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Ìå‚úÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(äçÇ°şÿÿÿÿ
+Osquid:S1197""8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197/"8Move the array designator from the variable to the type.(Ñ Ã
+nsquid:S3776\"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(— Œœùÿÿÿÿ
+Osquid:S1197a"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197n"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(·«ÌÔúÿÿÿÿ
+Psquid:S1197 "8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197®"8Move the array designator from the variable to the type.(Ñ Ã

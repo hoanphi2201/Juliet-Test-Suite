@@ -1,0 +1,24 @@
+
+lsquid:S1192J"UDefine a constant instead of duplicating this literal "Benign, fixed string" 3 times.(³ù‰Â
+squid:S11923"cDefine a constant instead of duplicating this literal "FileNotFoundException opening file" 3 times.(Ãâ€îøÿÿÿÿ
+isquid:S1192&"MDefine a constant instead of duplicating this literal "c:\\file.txt" 3 times.(àºÿ®üÿÿÿÿ
+€squid:S1192D"dDefine a constant instead of duplicating this literal "IOException closing FileInputStream" 3 times.(”Óıüÿÿÿÿ
+]squid:S1192."FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(áúîÄ
+psquid:S11927"YDefine a constant instead of duplicating this literal "IOException reading file" 3 times.(ÒÍÎ¾
+bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+bsquid:S1301R"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+csquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ğ×‡
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô®Šøøÿÿÿÿ
+csquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+dsquid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¸»
+Psquid:S4719."9Replace charset name argument with StandardCharsets.UTF_8(áúîÄ
+Fsquid:S2093""*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+nsquid:S3776P"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğ–­Éùÿÿÿÿ
+Psquid:S4719m"9Replace charset name argument with StandardCharsets.UTF_8(áúîÄ
+Fsquid:S2093Z"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§˜¨äşÿÿÿÿ
+Qsquid:S4719¥"9Replace charset name argument with StandardCharsets.UTF_8(áúîÄ
+Gsquid:S2093’"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏÜñâ
+bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(¢òÙÒ

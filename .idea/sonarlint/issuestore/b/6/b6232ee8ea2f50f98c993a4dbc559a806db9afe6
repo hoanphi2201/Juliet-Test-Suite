@@ -1,0 +1,8 @@
+
+€squid:S1192."iDefine a constant instead of duplicating this literal "There was an unsupported operation error" 3 times.(Ï­«
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë¿ó
+csquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(–ìµÏøÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇØòˆúÿÿÿÿ
+Jsquid:S11725".Remove this unused method parameter "request".(–ìµÏøÿÿÿÿ
+wsquid:S39237"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

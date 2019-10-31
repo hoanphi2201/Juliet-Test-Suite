@@ -1,0 +1,25 @@
+
+|squid:S1192W"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 3 times.(±İÜëşÿÿÿÿ
+fsquid:S1192†"IDefine a constant instead of duplicating this literal " out of " 3 times.(²£Ä şÿÿÿÿ
+gsquid:S1192†"JDefine a constant instead of duplicating this literal " queries." 3 times.(²£Ä şÿÿÿÿ
+ksquid:S1192†"NDefine a constant instead of duplicating this literal "Succeeded in " 3 times.(²£Ä şÿÿÿÿ
+zsquid:S1192Š"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192c"YDefine a constant instead of duplicating this literal "Error closing Connection" 5 times.(äªøûÿÿÿÿ
+Isquid:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ü"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S2589¹"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù“ƒÛúÿÿÿÿ
+csquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(åÁÔØøÿÿÿÿ
+_squid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(³Ş€ò
+_squid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(ììŞé
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ƒ¢Œ
+qsquid:S4144õ"YUpdate this method so that its implementation is not identical to "badSource" on line 35.(ììŞé
+isquid:S3776k"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼’‰Ü
+Osquid:S1197q"8Move the array designator from the variable to the type.(ïáº–
+Osquid:S1197~"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ò¸ˆÓ
+Psquid:S1197»"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197È"8Move the array designator from the variable to the type.(Ñ Ã
+osquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”øÿÿÿÿ
+Psquid:S1197Ã"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Ñ"8Move the array designator from the variable to the type.(Ñ Ã

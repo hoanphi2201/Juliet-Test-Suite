@@ -1,0 +1,8 @@
+
+Osquid:S1444"3Make this "public static DEFAULT_ERROR" field final(Äœ’øøÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake DEFAULT_ERROR a static final constant or non-public and provide accessors if needed.(Äœ’øøÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬“ú»øÿÿÿÿ
+wsquid:S00120
+"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊŠßžùÿÿÿÿ
+tsquid:S3008"XRename this field "DEFAULT_ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äœ’øøÿÿÿÿ
+Asquid:S2157"%Add a "clone()" method to this class.(¬“ú»øÿÿÿÿ

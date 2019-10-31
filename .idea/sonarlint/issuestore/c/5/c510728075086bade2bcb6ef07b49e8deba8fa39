@@ -1,0 +1,13 @@
+
+Qsquid:S11411"5Extract this nested try block into a separate method.(η£κϊÿÿÿÿ
+Qsquid:S1141~"5Extract this nested try block into a separate method.(η£κϊÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ρ„
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(βϊωÿÿÿÿ
+csquid:S00112_"FDefine and throw a dedicated exception instead of using a generic one.(Δ™ΐ¦ύÿÿÿÿ
+^squid:S00112j"FDefine and throw a dedicated exception instead of using a generic one.(ψª―
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΘΪΑ±ϋÿÿÿÿ
+psquid:S4144j"YUpdate this method so that its implementation is not identical to "badSource" on line 29.(ψª―
+Psquid:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(ΐ°ισ
+Fsquid:S2093'"*Change this "try" to a try-with-resources.(η£κϊÿÿÿÿ
+Psquid:S4719v"9Replace charset name argument with StandardCharsets.UTF_8(ΐ°ισ
+Fsquid:S2093t"*Change this "try" to a try-with-resources.(η£κϊÿÿÿÿ

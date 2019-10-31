@@ -1,0 +1,12 @@
+
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù¨™¿ûÿÿÿÿ
+^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò¸ˆÓ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÓÙıÿÿÿÿ
+|squid:S1149f"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÇÕ
+|squid:S1149z"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÇÕ
+]squid:S1075("ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S47191"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S2093-"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+psquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÕ
+psquid:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÕ

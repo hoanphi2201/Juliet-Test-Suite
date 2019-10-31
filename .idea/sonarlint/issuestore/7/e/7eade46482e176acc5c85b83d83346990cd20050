@@ -1,0 +1,10 @@
+
+Qsquid:S3518M":Make sure "data" can't be zero before doing this division.(øöÍÛ
+Rsquid:S3518‡":Make sure "data" can't be zero before doing this division.(øöÍÛ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ÍÎ
+^squid:S001129"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112S"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+^squid:S00112k"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş»Á 
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

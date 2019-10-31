@@ -1,0 +1,28 @@
+
+fsquid:S1192;"ODefine a constant instead of duplicating this literal "data is CWE690" 5 times.(ü´¶
+_squid:S1192-"HDefine a constant instead of duplicating this literal "CWE690" 10 times.(ÏöšÒ
+Fsquid:S10669"/Merge this if statement with the enclosing one.(–¾¯ø
+Fsquid:S1066U"/Merge this if statement with the enclosing one.(–¾¯ø
+Fsquid:S1066o"/Merge this if statement with the enclosing one.(–¾¯ø
+Lsquid:S1066ª"/Merge this if statement with the enclosing one.(‚…¥Ğùÿÿÿÿ
+Zsquid:S2583`"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583D"DChange this condition so that it does not always evaluate to "false"(´É½¼
+\squid:S2583†"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583›"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583z"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583*"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S25896"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589R"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589§"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589l"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕÉ´Y
+^squid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112]"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+^squid:S00112w"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à—±úÿÿÿÿ
+=squid:S1172A"&Remove these unused method parameters.(ÙÌú
+=squid:S1172]"&Remove these unused method parameters.(ÚØ÷“
+Fsquid:S1172w"/Remove this unused method parameter "response".(õåæ˜
+Lsquid:S1172˜"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

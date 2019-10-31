@@ -1,0 +1,10 @@
+
+hsquid:S1192 "QDefine a constant instead of duplicating this literal "Caught Exception" 3 times.(¤“ï³
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸°Ñúÿÿÿÿ
+csquid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(ğ–­Éùÿÿÿÿ
+csquid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äşÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ûì-
+bsquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+gsquid:S1764)"KCorrect one of the identical sub-expressions on both sides of operator "!="(ò ôÔıÿÿÿÿ
+bsquid:S1764A"KCorrect one of the identical sub-expressions on both sides of operator "=="(´ÃÑÀ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›®ë¿

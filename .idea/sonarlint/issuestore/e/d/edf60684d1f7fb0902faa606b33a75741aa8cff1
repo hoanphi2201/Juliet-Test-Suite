@@ -1,0 +1,42 @@
+
+vsquid:S1192D"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+|squid:S1192^"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+rsquid:S1192w"[Define a constant instead of duplicating this literal "Error closing ServerSocket" 3 times.(§¦ğ°
+fsquid:S1192›"IDefine a constant instead of duplicating this literal " out of " 4 times.(²£Ä şÿÿÿÿ
+ssquid:S1192R"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192›"JDefine a constant instead of duplicating this literal " queries." 4 times.(²£Ä şÿÿÿÿ
+ksquid:S1192›"NDefine a constant instead of duplicating this literal "Succeeded in " 4 times.(²£Ä şÿÿÿÿ
+zsquid:S1192Ÿ"bDefine a constant instead of duplicating this literal "Error getting database connection" 4 times.(ù÷êµ
+lsquid:S1192k"UDefine a constant instead of duplicating this literal "Error closing Socket" 3 times.(Ã—Ìí
+vsquid:S1192¸"YDefine a constant instead of duplicating this literal "Error closing Connection" 4 times.(äªøûÿÿÿÿ
+bsquid:S1192<"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Éª¢üÿÿÿÿ
+Gsquid:S1066„"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066Ê"/Merge this if statement with the enclosing one.(Ì ¨‘
+Gsquid:S1066–"/Merge this if statement with the enclosing one.(Ì ¨‘
+Isquid:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ğ¸¯şÿÿÿÿ
+dsquid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(ñ™–Üÿÿÿÿÿ
+dsquid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(Ú¥–ııÿÿÿÿ
+^squid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ë”Å	
+_squid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(¾‰¨‡
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãËñ
+Usquid:S4719<"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Fsquid:S20935"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ñ™–Üÿÿÿÿÿ
+Psquid:S1197†"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197“"8Move the array designator from the variable to the type.(Ñ Ã
+Vsquid:S4719á"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093Ú"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ú¥–ııÿÿÿÿ
+Psquid:S1197±"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197¿"8Move the array designator from the variable to the type.(Ñ Ã
+Vsquid:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(Éª¢üÿÿÿÿ
+Gsquid:S2093û"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+isquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ë”Å	
+Psquid:S1197Ì"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197Ú"8Move the array designator from the variable to the type.(Ñ Ã
+jsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¾‰¨‡
+Psquid:S1197˜"8Move the array designator from the variable to the type.(ïáº–
+Psquid:S1197¥"8Move the array designator from the variable to the type.(Ñ Ã

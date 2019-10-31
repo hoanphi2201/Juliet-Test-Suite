@@ -1,0 +1,46 @@
+
+wsquid:S1192g"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 5 times.(Ãº°—şÿÿÿÿ
+psquid:S1192h"TDefine a constant instead of duplicating this literal "' and pass/text()='" 5 times.(¢™›ûÿÿÿÿ
+¥squid:S1192P"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 5 times.(ÚÖ‘ø
+fsquid:S1192i"ODefine a constant instead of duplicating this literal "/secret/text()" 5 times.(÷æ¢Æ
+dsquid:S1192M"HDefine a constant instead of duplicating this literal "os.name" 5 times.(äæçşÿÿÿÿ
+¢squid:S1192U"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 5 times.(¨½ªè
+Isquid:S11996"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ª"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+\squid:S2583÷"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583¦"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583ß"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583ª"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S25832"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583s"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Osquid:S2589"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Nsquid:S2589J"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589Ã"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Osquid:S2589¾"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589¶"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+dsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìâB
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+isquid:S3776/"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûóÌå
+Vsquid:S1854j":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+=squid:S1172p"&Remove these unused method parameters.(ÙÌú
+Wsquid:S1854¡":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+>squid:S1172§"&Remove these unused method parameters.(ÚØ÷“
+Wsquid:S1854Ö":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+jsquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õåæ˜
+Gsquid:S1172Ü"/Remove this unused method parameter "response".(õåæ˜
+Wsquid:S1854œ":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§¬×Ôùÿÿÿÿ
+Lsquid:S1172£"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Wsquid:S1854Ü":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Gsquid:S1481j"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481¡"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ö"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481œ"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ü"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

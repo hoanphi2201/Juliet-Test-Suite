@@ -1,0 +1,19 @@
+
+‡squid:S1192“"pDefine a constant instead of duplicating this literal "The LDAP service was not found or login failed." 3 times.(õ˜…6
+qsquid:S1192Ÿ"YDefine a constant instead of duplicating this literal "Error closing DirContext" 3 times.(Ü¾©‘
+xsquid:S1192v"aDefine a constant instead of duplicating this literal "com.sun.jndi.ldap.LdapCtxFactory" 3 times.(Á§ï²
+_squid:S1192Œ"IDefine a constant instead of duplicating this literal " Value: " 3 times.(…ê
+qsquid:S1192w"UDefine a constant instead of duplicating this literal "ldap://localhost:389" 3 times.(¿œ†ûÿÿÿÿ
+Isquid:S11993"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šíà¿
+_squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+_squid:S00112ê"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í Øº
+rsquid:S1149u"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+ssquid:S1149¸"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+ssquid:S1149ù"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†‹ßşÿÿÿÿ
+isquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¼’‰Ü
+usquid:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+vsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+vsquid:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‹ßşÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ£Ì_

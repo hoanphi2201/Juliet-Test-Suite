@@ -1,0 +1,15 @@
+
+tsquid:S1192G"XDefine a constant instead of duplicating this literal "<br>bad() - <img src=\"" 3 times.(­Ò«øÿÿÿÿ
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583P"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Zsquid:S2583j"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583,"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S2589^"7Remove this expression which always evaluates to "true"(Ì ¨‘
+Nsquid:S2589v"7Remove this expression which always evaluates to "true"(Ì ¨‘
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£§şÿÿÿÿ
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ñßæ
+Esquid:S1172M".Remove this unused method parameter "request".(ÙÌú
+Esquid:S1172g".Remove this unused method parameter "request".(ÚØ÷“
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

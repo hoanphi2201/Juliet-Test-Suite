@@ -1,0 +1,5 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ“œØøÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(â­Ç›
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äªðÊ
+~squid:S1610"bConvert the abstract class "CWE191_Integer_Underflow__short_min_predec_81_base" into an interface.(Æ“œØøÿÿÿÿ

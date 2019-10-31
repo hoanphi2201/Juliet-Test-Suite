@@ -1,0 +1,15 @@
+
+esquid:S1192d"IDefine a constant instead of duplicating this literal "result: " 3 times.(­À¥¹ùÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—Í¸Ğûÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ØÓ¨
+^squid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(—´ÚÅ
+dsquid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(ö¸ØÁüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÎè×úÿÿÿÿ
+vsquid:S4144€"YUpdate this method so that its implementation is not identical to "badSource" on line 29.(ö¸ØÁüÿÿÿÿ
+Psquid:S4719*"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S2093("*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Csquid:S1905b"'Remove this unnecessary cast to "byte".(ƒÂáËùÿÿÿÿ
+Csquid:S1905y"'Remove this unnecessary cast to "byte".(ƒÂáËùÿÿÿÿ
+Qsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093‹"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Dsquid:S1905Ç"'Remove this unnecessary cast to "byte".(ƒÂáËùÿÿÿÿ

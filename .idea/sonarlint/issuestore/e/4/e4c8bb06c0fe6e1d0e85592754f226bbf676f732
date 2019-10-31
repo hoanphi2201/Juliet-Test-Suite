@@ -1,0 +1,19 @@
+
+‘squid:S1192+"{Define a constant instead of duplicating this literal "Number format exception reading data from parameter 'name'" 3 times.(³½Çr
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199x"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¨"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Xsquid:S3518:"<Make sure "data" can't be zero before doing this modulation.(¢›âàøÿÿÿÿ
+Xsquid:S3518l"<Make sure "data" can't be zero before doing this modulation.(¢›âàøÿÿÿÿ
+Xsquid:S3518T"<Make sure "data" can't be zero before doing this modulation.(¢›âàøÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µÿÆ’ÿÿÿÿÿ
+^squid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àè¹îıÿÿÿÿ
+=squid:S1172?"&Remove these unused method parameters.(ÙÌú
+=squid:S1172Y"&Remove these unused method parameters.(ÚØ÷“
+Fsquid:S1172q"/Remove this unused method parameter "response".(õåæ˜
+Lsquid:S1172¡"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É±“ˆşÿÿÿÿ

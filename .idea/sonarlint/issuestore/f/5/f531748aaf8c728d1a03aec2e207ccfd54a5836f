@@ -1,0 +1,34 @@
+
+xsquid:S1192€"[Define a constant instead of duplicating this literal "//users/user[name/text()='" 4 times.(Ãº°—şÿÿÿÿ
+vsquid:S1192>"ZDefine a constant instead of duplicating this literal "Error with stream reading" 3 times.(…µŠûÿÿÿÿ
+qsquid:S1192"TDefine a constant instead of duplicating this literal "' and pass/text()='" 4 times.(¢™›ûÿÿÿÿ
+|squid:S1192W"`Define a constant instead of duplicating this literal "Error closing InputStreamReader" 3 times.(ªÁ¥†üÿÿÿÿ
+¥squid:S1192i"Define a constant instead of duplicating this literal "\\src\\testcases\\CWE643_Xpath Injection\\CWE643_Xpath_Injection__Helper.xml" 4 times.(ÚÖ‘ø
+ssquid:S1192K"]Define a constant instead of duplicating this literal "Error closing BufferedReader" 3 times.(ä¶éS
+gsquid:S1192‚"ODefine a constant instead of duplicating this literal "/secret/text()" 4 times.(÷æ¢Æ
+dsquid:S1192f"HDefine a constant instead of duplicating this literal "os.name" 4 times.(äæçşÿÿÿÿ
+¢squid:S1192n"ŠDefine a constant instead of duplicating this literal "./src/testcases/CWE643_Xpath Injection/CWE643_Xpath_Injection__Helper.xml" 4 times.(¨½ªè
+]squid:S11926"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(À°éó
+Isquid:S1199/"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199›"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ÷§™üÿÿÿÿ
+csquid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(ñ™–Üÿÿÿÿÿ
+dsquid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(Ú¥–ııÿÿÿÿ
+^squid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(ë”Å	
+_squid:S00112ä"FDefine and throw a dedicated exception instead of using a generic one.(¾‰¨‡
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Òg
+Psquid:S47196"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Fsquid:S20934"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854ƒ":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Qsquid:S4719¢"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093 "*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854ô":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Qsquid:S4719ˆ"9Replace charset name argument with StandardCharsets.UTF_8(À°éó
+Gsquid:S2093†"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Wsquid:S1854Ó":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Wsquid:S1854†":Remove this useless assignment to local variable "secret".(®´°ÿÿÿÿÿ
+Hsquid:S1481ƒ"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481ô"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481Ó"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ
+Hsquid:S1481†"+Remove this unused "secret" local variable.(®´°ÿÿÿÿÿ

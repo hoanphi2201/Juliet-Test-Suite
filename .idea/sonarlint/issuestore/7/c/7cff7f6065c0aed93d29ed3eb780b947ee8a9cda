@@ -1,0 +1,16 @@
+
+Isquid:S1199)"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+dsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëÀ×
+^squid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(æ™ª‘
+^squid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(£»”§
+csquid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ± 0
+=squid:S1172""&Remove these unused method parameters.(æ™ª‘
+Fsquid:S2093-"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+2squid:S3626c"Remove this redundant jump.(ûÁİ…
+Ssquid:S1854Z"7Remove this useless assignment to local variable "uri".(Û¨¢ùÿÿÿÿ
+=squid:S1172h"&Remove these unused method parameters.(£»”§
+3squid:S3626ˆ"Remove this redundant jump.(ûÁİ…
+Ssquid:S1854"7Remove this useless assignment to local variable "uri".(Û¨¢ùÿÿÿÿ
+Dsquid:S1481W"(Remove this unused "uri" local variable.(À§ÔÄøÿÿÿÿ
+Dsquid:S1481|"(Remove this unused "uri" local variable.(À§ÔÄøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+jsquid:S1192"NDefine a constant instead of duplicating this literal "ABCDEFG123456" 3 times.(ˆîîÙúÿÿÿÿ
+csquid:S1192 "GDefine a constant instead of duplicating this literal "DESede" 3 times.(ä½©×ÿÿÿÿÿ
+bsquid:S1192)"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ã£µ©üÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôœŸŒ
+csquid:S00112/"FDefine and throw a dedicated exception instead of using a generic one.(ð–­Éùÿÿÿÿ
+csquid:S00112Q"FDefine and throw a dedicated exception instead of using a generic one.(§˜¨äþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù½åÃúÿÿÿÿ
+[squid:S2278'"?Use the recommended AES (Advanced Encryption Standard) instead.(ôýˆŠþÿÿÿÿ
+Usquid:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(ã£µ©üÿÿÿÿ
+Psquid:S4719I"9Replace charset name argument with StandardCharsets.UTF_8(ÊÕ”–
+Psquid:S4719_"9Replace charset name argument with StandardCharsets.UTF_8(ÊÕ”–
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àáì§øÿÿÿÿ

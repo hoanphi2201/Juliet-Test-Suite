@@ -1,0 +1,8 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•™«
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùğ‡éúÿÿÿÿ
+Usquid:S2168"9Remove this dangerous instance of double-checked locking.(Ã« Àúÿÿÿÿ
+jsquid:ModifiersOrderCheck/"EReorder the modifiers to comply with the Java Language Specification.(ì•í
+jsquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(é¶ ù
+osquid:ModifiersOrderCheckm"EReorder the modifiers to comply with the Java Language Specification.(óÃÉüÿÿÿÿ
+ksquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(ÄªÛİ

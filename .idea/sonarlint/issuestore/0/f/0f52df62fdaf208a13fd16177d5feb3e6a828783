@@ -1,0 +1,6 @@
+
+esquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑŒ°Ÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞúÉøÿÿÿÿ
+Psquid:S3400"9Remove this method and declare a constant for this value.(ØÉ“…
+Zsquid:UnusedPrivateMethod"0Remove this unused private "calculation" method.(éÍá‰ûÿÿÿÿ

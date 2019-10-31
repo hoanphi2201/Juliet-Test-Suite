@@ -1,0 +1,8 @@
+
+Fsquid:S1066m"/Merge this if statement with the enclosing one.(Ì ¨‘
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë­†Ï
+csquid:S00112&"FDefine and throw a dedicated exception instead of using a generic one.(öê¤—ûÿÿÿÿ
+csquid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(‰š½ÿÿÿÿÿ
+csquid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(°’Üûÿÿÿÿ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(«ÿêûÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à—±úÿÿÿÿ

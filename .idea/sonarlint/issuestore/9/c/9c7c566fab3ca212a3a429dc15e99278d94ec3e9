@@ -1,0 +1,37 @@
+
+‘squid:S11928"{Define a constant instead of duplicating this literal "Number format exception reading data from parameter 'name'" 3 times.(³½Çr
+nsquid:S1192M"WDefine a constant instead of duplicating this literal "Array size is negative" 5 times.(Âº
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199£"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Zsquid:S2583}"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583Ÿ"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+\squid:S2583¶"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583Y"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583Ö"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583,"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Nsquid:S2589C"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589‰"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589g"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589í"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÖ”À
+`squid:S2259–"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259û"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259t"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259Ì"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259P"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112z"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112Ó"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™’‰¾üÿÿÿÿ
+Osquid:S1197E"8Move the array designator from the variable to the type.(ØğÍ—
+=squid:S1172V"&Remove these unused method parameters.(ÙÌú
+Osquid:S1197i"8Move the array designator from the variable to the type.(ØğÍ—
+=squid:S1172z"&Remove these unused method parameters.(ÚØ÷“
+Psquid:S1197‹"8Move the array designator from the variable to the type.(ØğÍ—
+Gsquid:S1172œ"/Remove this unused method parameter "response".(õåæ˜
+Psquid:S1197¿"8Move the array designator from the variable to the type.(ØğÍ—
+Lsquid:S1172Ó"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Psquid:S1197ğ"8Move the array designator from the variable to the type.(ØğÍ—
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

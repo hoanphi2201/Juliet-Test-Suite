@@ -1,0 +1,14 @@
+
+tsquid:S1192n"XDefine a constant instead of duplicating this literal "<br>bad() - <img src=\"" 3 times.(­Ò«øÿÿÿÿ
+Isquid:S1199'"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ²òÎ
+^squid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ñßæ
+isquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ûóÌå
+]squid:S1075("ARefactor your code to get this URI from a customizable parameter.(¼¿†ÿÿÿÿÿ
+Psquid:S47190"9Replace charset name argument with StandardCharsets.UTF_8(º§´”
+Fsquid:S2093,"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+Esquid:S1172t".Remove this unused method parameter "request".(ÙÌú
+Fsquid:S1172".Remove this unused method parameter "request".(ÚØ÷“
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àáì§øÿÿÿÿ

@@ -1,0 +1,12 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÉ øÿÿÿÿÿ
+^squid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(ùžÍŒ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËàÔˆÿÿÿÿÿ
+\squid:S18543"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+\squid:S1854J"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+\squid:S1854_"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+Msquid:S14813"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Msquid:S1481J"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+Msquid:S1481_"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úåëöûÿÿÿÿ

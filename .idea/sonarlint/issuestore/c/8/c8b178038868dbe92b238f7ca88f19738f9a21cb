@@ -1,0 +1,10 @@
+
+squid:S1192:"vDefine a constant instead of duplicating this literal "Invalid response. Numeric input expected. Assuming 1." 5 times.( ğ¨Œ
+hsquid:S1192@"LDefine a constant instead of duplicating this literal "hello world" 5 times.(ú¥‡öøÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ÊÄŠ
+^squid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(ùÍŒ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112À"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèşÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áõ½™
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ£Ì_

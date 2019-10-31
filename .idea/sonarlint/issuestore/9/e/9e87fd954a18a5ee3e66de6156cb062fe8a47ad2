@@ -1,0 +1,5 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÒÊ˜
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚™«Óýÿÿÿÿ
+\squid:S1854"@Remove this useless assignment to local variable "intArrayList".(ãœâ¦úÿÿÿÿ
+Msquid:S1481"1Remove this unused "intArrayList" local variable.(ãœâ¦úÿÿÿÿ

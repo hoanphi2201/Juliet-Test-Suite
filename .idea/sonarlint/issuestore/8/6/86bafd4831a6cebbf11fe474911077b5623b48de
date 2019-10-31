@@ -1,0 +1,9 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£›öú
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‹š¼àøÿÿÿÿ
+csquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(Ž°è°ûÿÿÿÿ
+csquid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(¥Å÷Ôûÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÚ˜/
+Jsquid:S1172".Remove this unused method parameter "request".(‹š¼àøÿÿÿÿ
+Jsquid:S1172)".Remove this unused method parameter "request".(Ž°è°ûÿÿÿÿ
+Jsquid:S11727".Remove this unused method parameter "request".(¥Å÷Ôûÿÿÿÿ

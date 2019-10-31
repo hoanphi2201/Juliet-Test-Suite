@@ -1,0 +1,33 @@
+
+nsquid:S1192F"WDefine a constant instead of duplicating this literal "Array size is negative" 6 times.(Âº
+ˆsquid:S1192/"qDefine a constant instead of duplicating this literal "Number format exception reading data from cookie" 3 times.(åÂ×÷
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¤"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199»"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÙ½ä
+_squid:S2259I"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259]"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259ğ"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259‚"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259Ü"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+`squid:S2259•"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+csquid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€îÖùÿÿÿÿ
+Tsquid:S1197$"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Osquid:S1197>"8Move the array designator from the variable to the type.(ØğÍ—
+Osquid:S1197P"8Move the array designator from the variable to the type.(ØğÍ—
+Bsquid:S1172e"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+wsquid:S3923h"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923u"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Osquid:S1197w"8Move the array designator from the variable to the type.(ØğÍ—
+Psquid:S1197ˆ"8Move the array designator from the variable to the type.(ØğÍ—
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰øı“
+Gsquid:S1172"/Remove this unused method parameter "response".(‰øı“
+xsquid:S3923 "[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Usquid:S1197¥"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Usquid:S1197¼"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+xsquid:S3923Î"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Psquid:S1197Ñ"8Move the array designator from the variable to the type.(ØğÍ—
+Psquid:S1197ã"8Move the array designator from the variable to the type.(ØğÍ—
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

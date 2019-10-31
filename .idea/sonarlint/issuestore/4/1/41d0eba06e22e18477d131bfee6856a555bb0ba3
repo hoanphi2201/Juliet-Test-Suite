@@ -1,0 +1,28 @@
+
+ƒsquid:S1192M"mDefine a constant instead of duplicating this literal "data value is too large to perform addition." 3 times.(ÃÍÂE
+ˆsquid:S1192/"qDefine a constant instead of duplicating this literal "Number format exception reading data from cookie" 3 times.(åÂ×÷
+esquid:S1192@"IDefine a constant instead of duplicating this literal "result: " 6 times.(­À¥¹ùÿÿÿÿ
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199–"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æÅ»Áùÿÿÿÿ
+csquid:S00112U"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+^squid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(‰øı“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓµ·
+Tsquid:S1197$"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+<squid:S1905?"&Remove this unnecessary cast to "int".(´‹É
+<squid:S1905H"&Remove this unnecessary cast to "int".(´‹É
+Bsquid:S1172U"&Remove these unused method parameters.(ÛúÊ„üÿÿÿÿ
+wsquid:S3923X"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+wsquid:S3923e"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+<squid:S1905h"&Remove this unnecessary cast to "int".(´‹É
+<squid:S1905o"&Remove this unnecessary cast to "int".(´‹É
+isquid:S3776x"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰øı“
+Fsquid:S1172x"/Remove this unused method parameter "response".(‰øı“
+wsquid:S3923{"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+Usquid:S1197€"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+Usquid:S1197—"8Move the array designator from the variable to the type.(×ªŠşÿÿÿÿ
+xsquid:S3923©"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‘’€şÿÿÿÿ
+=squid:S1905®"&Remove this unnecessary cast to "int".(´‹É
+=squid:S1905¼"&Remove this unnecessary cast to "int".(´‹É
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öµ¥Êıÿÿÿÿ

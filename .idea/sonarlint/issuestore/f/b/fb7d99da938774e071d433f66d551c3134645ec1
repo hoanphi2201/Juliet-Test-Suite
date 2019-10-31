@@ -1,0 +1,22 @@
+
+lsquid:S11928"UDefine a constant instead of duplicating this literal "Benign, fixed string" 5 times.(³ù‰Â
+bsquid:S11923"FDefine a constant instead of duplicating this literal "Hello" 5 times.(ó¹Í•þÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+bsquid:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(ÐÈŠì
+bsquid:S1301O"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+gsquid:S1301e"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+bsquid:S1301r"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+hsquid:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(åò±ô
+hsquid:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(ÌÅÁÎÿÿÿÿÿ
+csquid:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(ð×‡Ž
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ÷é‘
+^squid:S00112>"FDefine and throw a dedicated exception instead of using a generic one.(•ßçˆ
+^squid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(ùžÍŒ
+_squid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(ÅËßï
+dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(ªËáèþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÛñ¿
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ê×±þÿÿÿÿ
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(¢úï
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(²ÅÓ“

@@ -1,0 +1,17 @@
+
+esquid:S1192("IDefine a constant instead of duplicating this literal "result: " 3 times.(­À¥¹ùÿÿÿÿ
+Isquid:S11993"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199‚"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùž£Íûÿÿÿÿ
+csquid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(Ž©Õ üÿÿÿÿ
+^squid:S00112R"FDefine and throw a dedicated exception instead of using a generic one.(ÅÙŽ™
+csquid:S00112^"FDefine and throw a dedicated exception instead of using a generic one.(ÛúÊ„üÿÿÿÿ
+csquid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(Úæÿ“úÿÿÿÿ
+^squid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(‰øý“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äªðÊ
+Bsquid:S1172!"&Remove these unused method parameters.(Ž©Õ üÿÿÿÿ
+Bsquid:S1905&"&Remove this unnecessary cast to "int".(æ»þœýÿÿÿÿ
+=squid:S1172R"&Remove these unused method parameters.(ÅÙŽ™
+Bsquid:S1905W"&Remove this unnecessary cast to "int".(æ»þœýÿÿÿÿ
+Bsquid:S1172i"&Remove these unused method parameters.(Úæÿ“úÿÿÿÿ
+Bsquid:S1905p"&Remove this unnecessary cast to "int".(æ»þœýÿÿÿÿ

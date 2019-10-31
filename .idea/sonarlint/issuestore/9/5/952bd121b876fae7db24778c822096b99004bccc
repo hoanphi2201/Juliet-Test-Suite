@@ -1,0 +1,17 @@
+
+msquid:S1192K"VDefine a constant instead of duplicating this literal "Error executing query" 3 times.(•½Ï¬
+squid:S1192A"cDefine a constant instead of duplicating this literal "select * from invoices where uid=?" 3 times.(İÉ‡şÿÿÿÿ
+rsquid:S1192p"[Define a constant instead of duplicating this literal "Could not close Connection" 3 times.(øÍÒ÷
+qsquid:S1192X"ZDefine a constant instead of duplicating this literal "Could not close ResultSet" 3 times.(µŒŠÉ
+ysquid:S1192d"bDefine a constant instead of duplicating this literal "Could not close PreparedStatement" 3 times.(âò¯›
+wsquid:S1192G"[Define a constant instead of duplicating this literal "bad() - result requested: " 3 times.(†ºÍøşÿÿÿÿ
+Osquid:S2589¿"7Remove this expression which always evaluates to "true"(àûÌ€
+Nsquid:S2589i"7Remove this expression which always evaluates to "true"(àûÌ€
+Osquid:S2589“"7Remove this expression which always evaluates to "true"(àûÌ€
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å´³±
+^squid:S00112w"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+_squid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¯¬¥
+=squid:S1172w"&Remove these unused method parameters.(ÙÌú
+>squid:S1172Í"&Remove these unused method parameters.(ÚØ÷“
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ø´

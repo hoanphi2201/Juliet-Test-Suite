@@ -1,0 +1,27 @@
+
+˜squid:S11928"|Define a constant instead of duplicating this literal "Number format exception reading count from parameter 'name'" 3 times.(‚êÇĞÿÿÿÿÿ
+bsquid:S1192I"FDefine a constant instead of duplicating this literal "Hello" 5 times.(ó¹Í•şÿÿÿÿ
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583Š"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583o"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583»"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+Zsquid:S2583,"CChange this condition so that it does not always evaluate to "true"(İ„ÏÄ
+[squid:S2583R"DChange this condition so that it does not always evaluate to "false"(´É½¼
+\squid:S2583¡"DChange this condition so that it does not always evaluate to "false"(´É½¼
+Nsquid:S2589C"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Osquid:S2589Ò"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589{"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+Nsquid:S2589`"7Remove this expression which always evaluates to "true"(İ„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®‘‹Øüÿÿÿÿ
+^squid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112l"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+=squid:S1172O"&Remove these unused method parameters.(ÙÌú
+=squid:S1172l"&Remove these unused method parameters.(ÚØ÷“
+Gsquid:S1172‡"/Remove this unused method parameter "response".(õåæ˜
+Lsquid:S1172¸"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»

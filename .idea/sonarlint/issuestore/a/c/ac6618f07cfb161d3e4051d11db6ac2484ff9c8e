@@ -1,0 +1,14 @@
+
+ysquid:S11920"bDefine a constant instead of duplicating this literal "Error getting database connection" 3 times.(ù÷êµ
+usquid:S1192I"YDefine a constant instead of duplicating this literal "Error closing Connection" 3 times.(äªøûÿÿÿÿ
+_squid:S1192,"IDefine a constant instead of duplicating this literal "Updated " 3 times.(ğŠ™
+jsquid:S1192,"TDefine a constant instead of duplicating this literal " rows successfully." 3 times.(ğŠ™
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸµùÔ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(“¬´»ÿÿÿÿÿ
+^squid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(˜«æŠ
+dsquid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(àÎ€†ÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¯äÛşÿÿÿÿ
+nsquid:S4144P"WUpdate this method so that its implementation is not identical to "badSink" on line 29.(˜«æŠ
+Tsquid:S1197"8Move the array designator from the variable to the type.(“¬´»ÿÿÿÿÿ
+Osquid:S1197P"8Move the array designator from the variable to the type.(˜«æŠ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(àÎ€†ÿÿÿÿÿ

@@ -1,0 +1,38 @@
+
+ˆsquid:S1192<"qDefine a constant instead of duplicating this literal "Number format exception reading data from cookie" 3 times.(åÂ×÷
+esquid:S1192L"IDefine a constant instead of duplicating this literal "result: " 5 times.(­À¥¹ùÿÿÿÿ
+Isquid:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Š"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+[squid:S2583T"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583†"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+\squid:S2583¢"DChange this condition so that it does not always evaluate to "false"(´É½¼
+[squid:S2583½"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Zsquid:S2583,"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Zsquid:S2583n"CChange this condition so that it does not always evaluate to "true"(Ý„ÏÄ
+Nsquid:S2589z"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Osquid:S2589Ù"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589H"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+Nsquid:S2589b"7Remove this expression which always evaluates to "true"(Ý„ÏÄ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒÌ‘Åüÿÿÿÿ
+^squid:S00112Q"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112k"FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+_squid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÓµ·
+Tsquid:S11971"8Move the array designator from the variable to the type.(×ªŠþÿÿÿÿ
+=squid:S1905K"&Remove this unnecessary cast to "int".(É‘¯ô
+=squid:S1172Q"&Remove these unused method parameters.(ÙÌú
+=squid:S1905e"&Remove this unnecessary cast to "int".(É‘¯ô
+=squid:S1172k"&Remove these unused method parameters.(ÚØ÷“
+=squid:S1905}"&Remove this unnecessary cast to "int".(É‘¯ô
+Gsquid:S1172ƒ"/Remove this unused method parameter "response".(õåæ˜
+Usquid:S1197‹"8Move the array designator from the variable to the type.(×ªŠþÿÿÿÿ
+>squid:S1905®"&Remove this unnecessary cast to "int".(É‘¯ô
+Lsquid:S1172º"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Usquid:S1197Â"8Move the array designator from the variable to the type.(×ªŠþÿÿÿÿ
+>squid:S1905ß"&Remove this unnecessary cast to "int".(É‘¯ô
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¥§»
+gsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ
+gsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ê¾®€ûÿÿÿÿ

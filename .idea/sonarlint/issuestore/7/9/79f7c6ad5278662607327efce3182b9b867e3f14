@@ -1,0 +1,21 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ•Óèşÿÿÿÿ
+Dsquid:S1604&"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Dsquid:S1604."(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Dsquid:S1604V"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Dsquid:S1604^"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Dsquid:S1604~"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Esquid:S1604†"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Esquid:S1604¬"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Esquid:S1604´"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Esquid:S1604Ú"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Esquid:S1604â"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+Esquid:S1604"(Make this anonymous inner class a lambda(™‡œ‹ÿÿÿÿÿ
+Esquid:S1604—"(Make this anonymous inner class a lambda(Ş€ˆ±şÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùğ‡éúÿÿÿÿ
+Psquid:S2168"9Remove this dangerous instance of double-checked locking.(µˆÊ
+jsquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(ì•í
+jsquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(é¶ ù
+psquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(óÃÉüÿÿÿÿ
+ksquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(ÄªÛİ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(¥ÁªÍúÿÿÿÿ

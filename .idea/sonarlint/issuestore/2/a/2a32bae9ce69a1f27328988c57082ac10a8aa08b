@@ -1,0 +1,16 @@
+
+nsquid:S1192&"WDefine a constant instead of duplicating this literal "Array size is negative" 3 times.(Âº
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ù¢
+_squid:S2259Y"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259*"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+_squid:S2259A"CA "NullPointerException" could be thrown; "array" is nullable here.(®ÁÌ’úÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(“ƒâøÿÿÿÿ
+csquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(ç¼øÚşÿÿÿÿ
+^squid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(şÜÍ¦
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™’‰¾üÿÿÿÿ
+Bsquid:S1172"&Remove these unused method parameters.(“ƒâøÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(ØğÍ—
+Bsquid:S11720"&Remove these unused method parameters.(ç¼øÚşÿÿÿÿ
+Osquid:S11974"8Move the array designator from the variable to the type.(ØğÍ—
+=squid:S1172G"&Remove these unused method parameters.(şÜÍ¦
+Osquid:S1197L"8Move the array designator from the variable to the type.(ØğÍ—

@@ -1,0 +1,11 @@
+
+esquid:S1192"IDefine a constant instead of duplicating this literal "result: " 3 times.(­À¥¹ùÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÕÒÙüÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‚Ù‘…úÿÿÿÿ
+^squid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(¸™›
+^squid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(ààÉ™
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Àâ¨
+nsquid:S41441"WUpdate this method so that its implementation is not identical to "badSink" on line 23.(¸™›
+>squid:S1905"'Remove this unnecessary cast to "long".(èŞùâ
+>squid:S19055"'Remove this unnecessary cast to "long".(èŞùâ
+>squid:S1905L"'Remove this unnecessary cast to "long".(èŞùâ

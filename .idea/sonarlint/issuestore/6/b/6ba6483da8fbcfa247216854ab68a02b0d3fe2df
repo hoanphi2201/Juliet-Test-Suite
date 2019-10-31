@@ -1,0 +1,21 @@
+
+‘squid:S1192+"{Define a constant instead of duplicating this literal "Number format exception reading data from parameter 'name'" 3 times.(³½Çr
+Isquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Isquid:S1199{"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199®"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç——¨üÿÿÿÿ
+^squid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(ÙÌú
+^squid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(ÚØ÷“
+^squid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(õåæ˜
+dsquid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(§¬×Ôùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™’‰¾üÿÿÿÿ
+Osquid:S11979"8Move the array designator from the variable to the type.(û½œë
+=squid:S1172@"&Remove these unused method parameters.(ÙÌú
+Osquid:S1197T"8Move the array designator from the variable to the type.(û½œë
+=squid:S1172["&Remove these unused method parameters.(ÚØ÷“
+Osquid:S1197m"8Move the array designator from the variable to the type.(û½œë
+Fsquid:S1172t"/Remove this unused method parameter "response".(õåæ˜
+Psquid:S1197—"8Move the array designator from the variable to the type.(û½œë
+Lsquid:S1172§"/Remove this unused method parameter "response".(§¬×Ôùÿÿÿÿ
+Psquid:S1197Ä"8Move the array designator from the variable to the type.(û½œë
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï¢ìùÿÿÿÿ

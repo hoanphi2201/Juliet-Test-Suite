@@ -1,0 +1,26 @@
+
+ysquid:S1192A"]Define a constant instead of duplicating this literal "Error closing BufferedWriter" 3 times.(Ã¥Œ¹ùÿÿÿÿ
+xsquid:S1192M"aDefine a constant instead of duplicating this literal "Error closing OutputStreamWriter" 3 times.(í†Ñ’
+]squid:S1192/"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±½ã
+{squid:S1192Y"_Define a constant instead of duplicating this literal "Error closing FileOutputStream" 3 times.(ÛíĞşÿÿÿÿÿ
+bsquid:S1192&"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¨ªª›úÿÿÿÿ
+vsquid:S11923"ZDefine a constant instead of duplicating this literal "Error with stream writing" 3 times.(ë‰ÜŸıÿÿÿÿ
+Tsquid:S2589"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Ssquid:S2589:"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Tsquid:S2589¶"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589Á"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589x"7Remove this expression which always evaluates to "true"(‹„˜àÿÿÿÿÿ
+Osquid:S2589„"7Remove this expression which always evaluates to "true"(ò›àá
+Ssquid:S2589R"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Tsquid:S2589Ì"7Remove this expression which always evaluates to "true"(““…„ÿÿÿÿÿ
+Nsquid:S2589F"7Remove this expression which always evaluates to "true"(ò›àá
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úàÁÒ
+^squid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(Ø¶€•
+^squid:S00112_"FDefine and throw a dedicated exception instead of using a generic one.(Ïí»ò
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(±‹¥Œıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®…ƒ
+nsquid:S4144_"WUpdate this method so that its implementation is not identical to "badSink" on line 33.(Ïí»ò
+Usquid:S4719&"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+Usquid:S4719d"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(±‹¥Œıÿÿÿÿ
+Vsquid:S4719¥"9Replace charset name argument with StandardCharsets.UTF_8(¨ªª›úÿÿÿÿ
